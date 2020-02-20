@@ -1,0 +1,1572 @@
+Uri: http://www.maurofradeani.com/
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\index.htm
+Content Type: text/html
+
+Uri: http://www.maurofradeani.com/favicon.ico
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\favicon.ico
+Content Type: image/x-icon
+
+Uri: http://www.maurofradeani.com/css/bootstrap.min.css
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: http://www.maurofradeani.com/css/flexslider.css
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\css\flexslider.css
+Content Type: text/css
+
+Uri: http://www.maurofradeani.com/js/vendor/fancybox/jquery.fancybox.css
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\js\vendor\fancybox\jquery.fancybox.css
+Content Type: text/css
+
+Uri: http://www.maurofradeani.com/css/main.css
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\css\main.css
+Content Type: text/css
+
+Uri: http://www.maurofradeani.com/i_casi_clinici
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\i_casi_clinici.html
+Content Type: text/html
+
+Uri: http://www.maurofradeani.com/ace_institute
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\ace_institute.html
+Content Type: text/html
+
+Uri: http://www.maurofradeani.com/specialized_dentistry_courses_by_dr_fradeani_information_and_registration
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\specialized_dentistry_courses_by_dr_fradeani_information_and_registration.html
+Content Type: text/html
+
+Uri: http://www.maurofradeani.com/newsletter
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\newsletter.html
+Content Type: text/html
+
+Uri: http://www.maurofradeani.com/contact_us
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\contact_us.html
+Content Type: text/html
+
+Uri: http://www.maurofradeani.com/link
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\link.html
+Content Type: text/html
+
+Uri: http://www.maurofradeani.com/the_clinician
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\the_clinician.html
+Content Type: text/html
+
+Uri: http://www.maurofradeani.com/the_clinic
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\the_clinic.html
+Content Type: text/html
+
+Uri: http://www.maurofradeani.com/the_staff
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\the_staff.html
+Content Type: text/html
+
+Uri: http://www.maurofradeani.com/video_youtube
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\video_youtube.html
+Content Type: text/html
+
+Uri: http://www.maurofradeani.com/publications
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\publications.html
+Content Type: text/html
+
+Uri: http://www.maurofradeani.com/books
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\books.html
+Content Type: text/html
+
+Uri: http://www.maurofradeani.com/articles
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\articles.html
+Content Type: text/html
+
+Uri: http://www.maurofradeani.com/clinical_cases
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\clinical_cases.html
+Content Type: text/html
+
+Uri: http://www.maurofradeani.com/preventionoral_hygiene_and_fluoride_treatments
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\preventionoral_hygiene_and_fluoride_treatments.html
+Content Type: text/html
+
+Uri: http://www.maurofradeani.com/tooth_decay_prevention_and_periodontal_diseases
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\tooth_decay_prevention_and_periodontal_diseases.html
+Content Type: text/html
+
+Uri: http://www.maurofradeani.com/oral_hygiene_and_fluoride_preventive_treatments
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\oral_hygiene_and_fluoride_preventive_treatments.html
+Content Type: text/html
+
+Uri: http://www.maurofradeani.com/fluoride_treatments
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\fluoride_treatments.html
+Content Type: text/html
+
+Uri: http://www.maurofradeani.com/pediatric_dentistry
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\pediatric_dentistry.html
+Content Type: text/html
+
+Uri: http://www.maurofradeani.com/sealings
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\sealings.html
+Content Type: text/html
+
+Uri: http://www.maurofradeani.com/care_of_the_deciduous_dentition_milk_teeth
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\care_of_the_deciduous_dentition_milk_teeth.html
+Content Type: text/html
+
+Uri: http://www.maurofradeani.com/conservative_therapy
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\conservative_therapy.html
+Content Type: text/html
+
+Uri: http://www.maurofradeani.com/filling_of_anterior_teeth
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\filling_of_anterior_teeth.html
+Content Type: text/html
+
+Uri: http://www.maurofradeani.com/filling_of_posterior_teeth
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\filling_of_posterior_teeth.html
+Content Type: text/html
+
+Uri: http://www.maurofradeani.com/endodontic_treatments
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\endodontic_treatments.html
+Content Type: text/html
+
+Uri: http://www.maurofradeani.com/vital_tooth_devitalization
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\vital_tooth_devitalization.html
+Content Type: text/html
+
+Uri: http://www.maurofradeani.com/devitalization_of_a_previously_treated_tooth
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\devitalization_of_a_previously_treated_tooth.html
+Content Type: text/html
+
+Uri: http://www.maurofradeani.com/orthodontic_treatments
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\orthodontic_treatments.html
+Content Type: text/html
+
+Uri: http://www.maurofradeani.com/fixed_orthodontics
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\fixed_orthodontics.html
+Content Type: text/html
+
+Uri: http://www.maurofradeani.com/invisible_orthodontics
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\invisible_orthodontics.html
+Content Type: text/html
+
+Uri: http://www.maurofradeani.com/early_orthodontics
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\early_orthodontics.html
+Content Type: text/html
+
+Uri: http://www.maurofradeani.com/prosthetic_treatments
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\prosthetic_treatments.html
+Content Type: text/html
+
+Uri: http://www.maurofradeani.com/esthetic_rehabilitation_of_the_anterior_area_of_the_natural_teeth
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\esthetic_rehabilitation_of_the_anterior_area_of_the_natural_teeth.html
+Content Type: text/html
+
+Uri: http://www.maurofradeani.com/esthetic_rehabilitation_of_the_anterior_area_on_implants
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\esthetic_rehabilitation_of_the_anterior_area_on_implants.html
+Content Type: text/html
+
+Uri: http://www.maurofradeani.com/complete_esthetic_rehabilitation_on_natural_dentition
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\complete_esthetic_rehabilitation_on_natural_dentition.html
+Content Type: text/html
+
+Uri: http://www.maurofradeani.com/complete_esthetic_rehabilitation_on_implants
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\complete_esthetic_rehabilitation_on_implants.html
+Content Type: text/html
+
+Uri: http://www.maurofradeani.com/prosthetic_rehabilitation_on_natural_dentition_and_implants
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\prosthetic_rehabilitation_on_natural_dentition_and_implants.html
+Content Type: text/html
+
+Uri: http://www.maurofradeani.com/teeth_whitening
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\teeth_whitening.html
+Content Type: text/html
+
+Uri: http://www.maurofradeani.com/vital_teeth_whitening_in_office
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\vital_teeth_whitening_in_office.html
+Content Type: text/html
+
+Uri: http://www.maurofradeani.com/devitalized_teeth_whitening_in_office
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\devitalized_teeth_whitening_in_office.html
+Content Type: text/html
+
+Uri: http://www.maurofradeani.com/home_teeth_whitening
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\home_teeth_whitening.html
+Content Type: text/html
+
+Uri: http://www.maurofradeani.com/_8
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\_8.html
+Content Type: text/html
+
+Uri: http://www.maurofradeani.com/maxillary_sinus_lift
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\maxillary_sinus_lift.html
+Content Type: text/html
+
+Uri: http://www.maurofradeani.com/periodontal_surgery
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\periodontal_surgery.html
+Content Type: text/html
+
+Uri: http://www.maurofradeani.com/gingival_recession_treatment
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\gingival_recession_treatment.html
+Content Type: text/html
+
+Uri: http://www.maurofradeani.com/immediate_load_implantology
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\immediate_load_implantology.html
+Content Type: text/html
+
+Uri: http://www.maurofradeani.com/guided_implant_surgery
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\guided_implant_surgery.html
+Content Type: text/html
+
+Uri: http://www.maurofradeani.com/bone_regeneration
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\bone_regeneration.html
+Content Type: text/html
+
+Uri: http://www.maurofradeani.com/surgical_extractions
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\surgical_extractions.html
+Content Type: text/html
+
+Uri: http://www.maurofradeani.com/2d_and_3d_image_diagnostics
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\2d_and_3d_image_diagnostics.html
+Content Type: text/html
+
+Uri: http://www.maurofradeani.com/intraoral_status
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\intraoral_status.html
+Content Type: text/html
+
+Uri: http://www.maurofradeani.com/orthopantomography
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\orthopantomography.html
+Content Type: text/html
+
+Uri: http://www.maurofradeani.com/teleradiography
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\teleradiography.html
+Content Type: text/html
+
+Uri: http://www.maurofradeani.com/cone_beam_test
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\cone_beam_test.html
+Content Type: text/html
+
+Uri: http://www.maurofradeani.com/informativa_sulla_privacy
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\informativa_sulla_privacy.html
+Content Type: text/html
+
+Uri: http://www.maurofradeani.com/cookie_policy
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\cookie_policy.html
+Content Type: text/html
+
+Uri: http://www.maurofradeani.com/js/vendor/modernizr-2.6.1-respond-1.1.0.min.js
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\js\vendor\modernizr-2.6.1-respond-1.1.0.min.js
+Content Type: application/javascript
+
+Uri: http://www.maurofradeani.com/img/ico_facebook.png
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\img\ico_facebook.png
+Content Type: image/png
+
+Uri: http://www.maurofradeani.com/img/ico_youtube.png
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\img\ico_youtube.png
+Content Type: image/png
+
+Uri: http://www.maurofradeani.com/img/logo_fradeani.png
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\img\logo_fradeani.png
+Content Type: image/png
+
+Uri: http://www.maurofradeani.com/img/logo_education.png
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\img\logo_education.png
+Content Type: image/png
+
+Uri: http://www.maurofradeani.com/img/video_home.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\img\video_home.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1111_n_ilclinico.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1111_n_ilclinico.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1112_n_lo_studio.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1112_n_lo_studio.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1113_n_casi_clinici.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1113_n_casi_clinici.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1114_n_aceinstitute.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1114_n_aceinstitute.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1134_n_il_clinico.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1134_n_il_clinico.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1133_n_img_ace.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1133_n_img_ace.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/img/mappa_home.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\img\mappa_home.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/img/web_agency.png
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\img\web_agency.png
+Content Type: image/png
+
+Uri: http://www.maurofradeani.com/img/logo_education-redirect.png
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\img\logo_education-redirect.png
+Content Type: image/png
+
+Uri: http://www.maurofradeani.com/js/vendor/json2.min.js
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\js\vendor\json2.min.js
+Content Type: application/javascript
+
+Uri: http://www.maurofradeani.com/js/vendor/bootstrap.min.js
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\js\vendor\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: http://www.maurofradeani.com/js/vendor/superfish.js
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\js\vendor\superfish.js
+Content Type: application/javascript
+
+Uri: http://www.maurofradeani.com/js/vendor/flexslider.js
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\js\vendor\flexslider.js
+Content Type: application/javascript
+
+Uri: http://www.maurofradeani.com/js/vendor/fancybox/jquery.fancybox.pack.js
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\js\vendor\fancybox\jquery.fancybox.pack.js
+Content Type: application/javascript
+
+Uri: http://www.maurofradeani.com/js/vendor/jquery.mousewheel.min.js
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\js\vendor\jquery.mousewheel.min.js
+Content Type: application/javascript
+
+Uri: http://www.maurofradeani.com/js/vendor/jquery.touchSwipe.min.js
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\js\vendor\jquery.touchSwipe.min.js
+Content Type: application/javascript
+
+Uri: http://www.maurofradeani.com/js/vendor/jquery.carouFredSel-6.1.0-packed.js
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\js\vendor\jquery.carouFredSel-6.1.0-packed.js
+Content Type: application/javascript
+
+Uri: http://www.maurofradeani.com/js/vendor/jquery.validate.js
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\js\vendor\jquery.validate.js
+Content Type: application/javascript
+
+Uri: http://www.maurofradeani.com/js/main.js
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\js\main.js
+Content Type: application/javascript
+
+Uri: http://www.maurofradeani.com/js/corsi-ace.js
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\js\corsi-ace.js
+Content Type: application/javascript
+
+Uri: http://www.maurofradeani.com/js/wsForms.js
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\js\wsForms.js
+Content Type: application/javascript
+
+Uri: http://www.maurofradeani.com/js/vendor/fancybox/fancybox_sprite.png
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\js\vendor\fancybox\fancybox_sprite.png
+Content Type: image/png
+
+Uri: http://www.maurofradeani.com/js/vendor/fancybox/fancybox_loading.gif
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\js\vendor\fancybox\fancybox_loading.gif
+Content Type: image/gif
+
+Uri: http://www.maurofradeani.com/js/vendor/fancybox/blank.gif
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\js\vendor\fancybox\blank.gif
+Content Type: image/gif
+
+Uri: http://www.maurofradeani.com/js/vendor/fancybox/fancybox_overlay.png
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\js\vendor\fancybox\fancybox_overlay.png
+Content Type: image/png
+
+Uri: http://www.maurofradeani.com/img/bg_top.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\img\bg_top.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/img/separatore.png
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\img\separatore.png
+Content Type: image/png
+
+Uri: http://www.maurofradeani.com/img/separatore_mini.png
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\img\separatore_mini.png
+Content Type: image/png
+
+Uri: http://www.maurofradeani.com/img/arrow.gif
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\img\arrow.gif
+Content Type: image/gif
+
+Uri: http://www.maurofradeani.com/img/arrow_over.gif
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\img\arrow_over.gif
+Content Type: image/gif
+
+Uri: http://www.maurofradeani.com/img/logo_filetto.png
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\img\logo_filetto.png
+Content Type: image/png
+
+Uri: http://www.maurofradeani.com/img/ico_search.gif
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\img\ico_search.gif
+Content Type: image/gif
+
+Uri: http://www.maurofradeani.com/img/bg_sottomenu.gif
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\img\bg_sottomenu.gif
+Content Type: image/gif
+
+Uri: http://www.maurofradeani.com/img/bg_showreel.png
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\img\bg_showreel.png
+Content Type: image/png
+
+Uri: http://www.maurofradeani.com/img/bg_photogallery.png
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\img\bg_photogallery.png
+Content Type: image/png
+
+Uri: http://www.maurofradeani.com/img/ico_video.png
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\img\ico_video.png
+Content Type: image/png
+
+Uri: http://www.maurofradeani.com/img/ico_image.png
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\img\ico_image.png
+Content Type: image/png
+
+Uri: http://www.maurofradeani.com/img/bg_img.gif
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\img\bg_img.gif
+Content Type: image/gif
+
+Uri: http://www.maurofradeani.com/img/bg_box.gif
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\img\bg_box.gif
+Content Type: image/gif
+
+Uri: http://www.maurofradeani.com/img/bg_map.gif
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\img\bg_map.gif
+Content Type: image/gif
+
+Uri: http://www.maurofradeani.com/img/ombra_1170.png
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\img\ombra_1170.png
+Content Type: image/png
+
+Uri: http://www.maurofradeani.com/img/bg_img.png
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\img\bg_img.png
+Content Type: image/png
+
+Uri: http://www.maurofradeani.com/img/paging_prev.png
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\img\paging_prev.png
+Content Type: image/png
+
+Uri: http://www.maurofradeani.com/img/paging_prev_over.png
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\img\paging_prev_over.png
+Content Type: image/png
+
+Uri: http://www.maurofradeani.com/img/paging_next.png
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\img\paging_next.png
+Content Type: image/png
+
+Uri: http://www.maurofradeani.com/img/paging_next_over.png
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\img\paging_next_over.png
+Content Type: image/png
+
+Uri: http://www.maurofradeani.com/img/paging_next_disable.png
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\img\paging_next_disable.png
+Content Type: image/png
+
+Uri: http://www.maurofradeani.com/img/paging_prev_disable.png
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\img\paging_prev_disable.png
+Content Type: image/png
+
+Uri: http://www.maurofradeani.com/img/pdf_icon.png
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\img\pdf_icon.png
+Content Type: image/png
+
+Uri: http://www.maurofradeani.com/img/miscellaneous_sprite.png
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\img\miscellaneous_sprite.png
+Content Type: image/png
+
+Uri: http://www.maurofradeani.com/img/bg_bottom.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\img\bg_bottom.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/img/ombra_foo_1170.png
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\img\ombra_foo_1170.png
+Content Type: image/png
+
+Uri: http://www.maurofradeani.com/img/Video_widget.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\img\Video_widget.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/img/Video_widget_ico.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\img\Video_widget_ico.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/img/ombra_960.png
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\img\ombra_960.png
+Content Type: image/png
+
+Uri: http://www.maurofradeani.com/img/ombra_foo_960.png
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\img\ombra_foo_960.png
+Content Type: image/png
+
+Uri: http://www.maurofradeani.com/img/ombra_750.png
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\img\ombra_750.png
+Content Type: image/png
+
+Uri: http://www.maurofradeani.com/img/ombra_foo_750.png
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\img\ombra_foo_750.png
+Content Type: image/png
+
+Uri: http://www.maurofradeani.com/img/bg_800.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\img\bg_800.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1497_n_casi_clinici.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1497_n_casi_clinici.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1116_n_casi_clinici_prevenzione.png
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1116_n_casi_clinici_prevenzione.png
+Content Type: image/png
+
+Uri: http://www.maurofradeani.com/media/immagini/1117_n_casi_clinici_pediatrica.png
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1117_n_casi_clinici_pediatrica.png
+Content Type: image/png
+
+Uri: http://www.maurofradeani.com/media/immagini/1118_n_casi_clinici_conservativa.png
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1118_n_casi_clinici_conservativa.png
+Content Type: image/png
+
+Uri: http://www.maurofradeani.com/media/immagini/1119_n_casi_clinici_endodontici.png
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1119_n_casi_clinici_endodontici.png
+Content Type: image/png
+
+Uri: http://www.maurofradeani.com/media/immagini/1120_n_casi_clinici_ortodontici.png
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1120_n_casi_clinici_ortodontici.png
+Content Type: image/png
+
+Uri: http://www.maurofradeani.com/media/immagini/1121_n_casi_clinici_protesici.png
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1121_n_casi_clinici_protesici.png
+Content Type: image/png
+
+Uri: http://www.maurofradeani.com/media/immagini/1122_n_casi_clinici_sbiancamento.png
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1122_n_casi_clinici_sbiancamento.png
+Content Type: image/png
+
+Uri: http://www.maurofradeani.com/media/immagini/1123_n_casi_clinici_orale.png
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1123_n_casi_clinici_orale.png
+Content Type: image/png
+
+Uri: http://www.maurofradeani.com/media/immagini/1124_n_casi_clinici_diagnostica.png
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1124_n_casi_clinici_diagnostica.png
+Content Type: image/png
+
+Uri: http://www.maurofradeani.com/media/immagini/1216_z_ace_institute_7.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1216_z_ace_institute_7.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1211_z_ace_institute_2.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1211_z_ace_institute_2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1212_z_ace_institute_3.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1212_z_ace_institute_3.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1220_z_ace_institute_11.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1220_z_ace_institute_11.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1213_z_ace_institute_4.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1213_z_ace_institute_4.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1219_z_ace_institute_10.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1219_z_ace_institute_10.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1214_z_ace_institute_5.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1214_z_ace_institute_5.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1215_z_ace_institute_6.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1215_z_ace_institute_6.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1217_z_ace_institute_8.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1217_z_ace_institute_8.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1576_z_slide-5.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1576_z_slide-5.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1577_z_slide-7.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1577_z_slide-7.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/ace_institute?pag=2
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\ace_institute-1.html
+Content Type: text/html
+
+Uri: http://www.maurofradeani.com/media/immagini/1262_t_ace.png
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1262_t_ace.png
+Content Type: image/png
+
+Uri: http://www.maurofradeani.com/media/immagini/1216_t_ace_institute_t_7.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1216_t_ace_institute_t_7.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1211_t_ace_institute_t_2.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1211_t_ace_institute_t_2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1212_t_ace_institute_t_3.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1212_t_ace_institute_t_3.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1220_t_ace_institute_t_11.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1220_t_ace_institute_t_11.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1213_t_ace_institute_t_4.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1213_t_ace_institute_t_4.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1219_t_ace_institute_t_10.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1219_t_ace_institute_t_10.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1214_t_ace_institute_t_5.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1214_t_ace_institute_t_5.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1215_t_ace_institute_t_6.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1215_t_ace_institute_t_6.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1217_t_ace_institute_t_8.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1217_t_ace_institute_t_8.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1576_t_slide-5_sq.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1576_t_slide-5_sq.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1577_t_slide-7_sq.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1577_t_slide-7_sq.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/specialized_dentistry_courses_by_dr_fradeani_information_and_registration?anno=2015
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\specialized_dentistry_courses_by_dr_fradeani_information_and_registration-1.html
+Content Type: text/html
+
+Uri: http://www.maurofradeani.com/specialized_dentistry_courses_by_dr_fradeani_information_and_registration?anno=2014
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\specialized_dentistry_courses_by_dr_fradeani_information_and_registration-2.html
+Content Type: text/html
+
+Uri: http://www.maurofradeani.com/img/contatti_showreel/01.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\img\contatti_showreel\01.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/img/contatti_showreel/02.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\img\contatti_showreel\02.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/img/contatti_showreel/03.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\img\contatti_showreel\03.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/img/contatti_showreel/04.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\img\contatti_showreel\04.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/img/contatti_dx.gif
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\img\contatti_dx.gif
+Content Type: image/gif
+
+Uri: http://www.maurofradeani.com/img/contatti_sx.gif
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\img\contatti_sx.gif
+Content Type: image/gif
+
+Uri: http://www.maurofradeani.com/img/contatti_corso.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\img\contatti_corso.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1431_n_eaed.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1431_n_eaed.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1432_n_aiop.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1432_n_aiop.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1433_n_lsu.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1433_n_lsu.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1434_n_aaed.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1434_n_aaed.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1435_n_aafp.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1435_n_aafp.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1436_n_ao.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1436_n_ao.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1437_n_iaed.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1437_n_iaed.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1438_n_ppad.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1438_n_ppad.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1439_n_jerd.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1439_n_jerd.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1440_n_ejed.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1440_n_ejed.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1115_n_header_interna2.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1115_n_header_interna2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1268_z_mauro fradeani01.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1268_z_mauro fradeani01.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1269_z_mauro fradeani02.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1269_z_mauro fradeani02.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1270_z_mauro fradeani03.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1270_z_mauro fradeani03.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1271_z_mauro fradeani08.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1271_z_mauro fradeani08.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1272_z_mauro fradeani09.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1272_z_mauro fradeani09.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1273_z_mauro fradeani10.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1273_z_mauro fradeani10.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1274_z_mauro fradeani11.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1274_z_mauro fradeani11.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1275_z_mauro fradeani12.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1275_z_mauro fradeani12.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1276_z_mauro fradeani14.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1276_z_mauro fradeani14.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1277_z_mauro fradeani16.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1277_z_mauro fradeani16.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1278_z_mauro fradeani21.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1278_z_mauro fradeani21.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/il_clinico
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\il_clinico.html
+Content Type: text/html
+
+Uri: http://www.maurofradeani.com/media/immagini/1196_n_FRADEANI_PROFILO.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1196_n_FRADEANI_PROFILO.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1199_n_gori_fradeani_2.JPG
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1199_n_gori_fradeani_2.JPG
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1281_n_pedetta.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1281_n_pedetta.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1280_n_aquilano_fradeani.JPG
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1280_n_aquilano_fradeani.JPG
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1193_n_pagnoni.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1193_n_pagnoni.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1202_n_luca.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1202_n_luca.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1206_n_turrini.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1206_n_turrini.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1201_n_laura.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1201_n_laura.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/2073_n_Roberta-Boscherini.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\2073_n_Roberta-Boscherini.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1204_n_michela.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1204_n_michela.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1207_n_simona2.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1207_n_simona2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1194_n_antonietta.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1194_n_antonietta.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1197_n_franca.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1197_n_franca.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1208_n_mariangela.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1208_n_mariangela.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/2074_n_Anna-Pedroni.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\2074_n_Anna-Pedroni.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1198_n_giancarlo.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1198_n_giancarlo.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1496_n_paolo_rossi.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1496_n_paolo_rossi.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1205_n_paola.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1205_n_paola.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1442_n_ALEXANDER.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1442_n_ALEXANDER.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/2072_n_MATTIA.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\2072_n_MATTIA.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1430_n_libri_vol1_vol2.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1430_n_libri_vol1_vol2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1136_n_vol_1.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1136_n_vol_1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1137_n_vol_2.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1137_n_vol_2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/articles?pag=2
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\articles-1.html
+Content Type: text/html
+
+Uri: http://www.maurofradeani.com/articles?pag=3
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\articles-2.html
+Content Type: text/html
+
+Uri: http://www.maurofradeani.com/media/immagini/1495_n_1.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1495_n_1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1452_n_01_en.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1452_n_01_en.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1381_z_fradeani_caso_clinico.089.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1381_z_fradeani_caso_clinico.089.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1382_z_fradeani_caso_clinico.090.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1382_z_fradeani_caso_clinico.090.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1451_n_01_en.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1451_n_01_en.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1383_z_fradeani_caso_clinico.096.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1383_z_fradeani_caso_clinico.096.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1384_z_fradeani_caso_clinico.097.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1384_z_fradeani_caso_clinico.097.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1385_z_fradeani_caso_clinico.099.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1385_z_fradeani_caso_clinico.099.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1386_z_fradeani_caso_clinico.100.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1386_z_fradeani_caso_clinico.100.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1387_z_fradeani_caso_clinico.102.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1387_z_fradeani_caso_clinico.102.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1388_z_fradeani_caso_clinico.103.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1388_z_fradeani_caso_clinico.103.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1449_n_01_en.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1449_n_01_en.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1389_z_fradeani_caso_clinico.105.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1389_z_fradeani_caso_clinico.105.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1391_z_fradeani_caso_clinico.107.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1391_z_fradeani_caso_clinico.107.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1494_n_2.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1494_n_2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1456_n_02_en.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1456_n_02_en.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1392_z_fradeani_caso_clinico.109.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1392_z_fradeani_caso_clinico.109.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1394_z_fradeani_caso_clinico.111.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1394_z_fradeani_caso_clinico.111.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1454_n_02_en.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1454_n_02_en.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1395_z_fradeani_caso_clinico.113.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1395_z_fradeani_caso_clinico.113.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1399_z_fradeani_caso_clinico.117.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1399_z_fradeani_caso_clinico.117.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1493_n_3.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1493_n_3.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1458_n_03_en.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1458_n_03_en.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1400_z_fradeani_caso_clinico.119.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1400_z_fradeani_caso_clinico.119.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1401_z_fradeani_caso_clinico.120.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1401_z_fradeani_caso_clinico.120.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1402_z_fradeani_caso_clinico.122.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1402_z_fradeani_caso_clinico.122.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1403_z_fradeani_caso_clinico.123.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1403_z_fradeani_caso_clinico.123.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1460_n_03_en.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1460_n_03_en.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1404_z_fradeani_caso_clinico.125.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1404_z_fradeani_caso_clinico.125.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1408_z_1408_z_fradeani_caso_clinico.129.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1408_z_1408_z_fradeani_caso_clinico.129.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1492_n_4.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1492_n_4.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1461_n_04_en.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1461_n_04_en.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1555_z_4.8.1.001.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1555_z_4.8.1.001.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1556_z_4.8.1.002.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1556_z_4.8.1.002.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1462_n_04_en.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1462_n_04_en.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1557_z_4.9.1.001.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1557_z_4.9.1.001.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1558_z_4.9.1.002.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1558_z_4.9.1.002.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1491_n_5.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1491_n_5.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1463_n_05_en.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1463_n_05_en.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1570_z_0.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1570_z_0.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1575_z_10.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1575_z_10.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1587_z_1.2.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1587_z_1.2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1589_z_1.3.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1589_z_1.3.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1464_n_05_en.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1464_n_05_en.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1530_z_1530_t_1530_z_5_11_4.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1530_z_1530_t_1530_z_5_11_4.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1535_z_1535_z_1535_z_5_11_9.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1535_z_1535_z_1535_z_5_11_9.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1465_n_05_en.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1465_n_05_en.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1513_z_1-DSC_5673.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1513_z_1-DSC_5673.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1516_z_4-DSC_8545.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1516_z_4-DSC_8545.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1519_z_5.17_caso1_orto precoce_1.JPG
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1519_z_5.17_caso1_orto precoce_1.JPG
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1526_z_5.17_caso1_orto precoce_6.JPG
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1526_z_5.17_caso1_orto precoce_6.JPG
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1490_n_6.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1490_n_6.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1471_n_06_en.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1471_n_06_en.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1308_z_fradeani_caso_clinico.002.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1308_z_fradeani_caso_clinico.002.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1310_z_fradeani_caso_clinico.004.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1310_z_fradeani_caso_clinico.004.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1311_z_fradeani_caso_clinico.006.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1311_z_fradeani_caso_clinico.006.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1314_z_fradeani_caso_clinico.009.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1314_z_fradeani_caso_clinico.009.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1315_z_fradeani_caso_clinico.011.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1315_z_fradeani_caso_clinico.011.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1318_z_fradeani_caso_clinico.014.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1318_z_fradeani_caso_clinico.014.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1320_z_1320_z_fradeani_caso_clinico.017.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1320_z_1320_z_fradeani_caso_clinico.017.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1322_z_1322_z_fradeani_caso_clinico.019.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1322_z_1322_z_fradeani_caso_clinico.019.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1323_z_fradeani_caso_clinico.020_1.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1323_z_fradeani_caso_clinico.020_1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1326_z_fradeani_caso_clinico.023_1.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1326_z_fradeani_caso_clinico.023_1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1470_n_06_en.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1470_n_06_en.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1327_z_1327_z_fradeani_caso_clinico.025 copia.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1327_z_1327_z_fradeani_caso_clinico.025 copia.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1330_z_fradeani_caso_clinico.028.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1330_z_fradeani_caso_clinico.028.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1331_z_fradeani_caso_clinico.030.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1331_z_fradeani_caso_clinico.030.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1336_z_fradeani_caso_clinico.035.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1336_z_fradeani_caso_clinico.035.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1337_z_fradeani_caso_clinico.037.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1337_z_fradeani_caso_clinico.037.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1341_z_fradeani_caso_clinico.041.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1341_z_fradeani_caso_clinico.041.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1469_n_06_en.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1469_n_06_en.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1342_z_fradeani_caso_clinico.043.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1342_z_fradeani_caso_clinico.043.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1348_z_fradeani_caso_clinico.049.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1348_z_fradeani_caso_clinico.049.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1349_z_fradeani_caso_clinico.051.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1349_z_fradeani_caso_clinico.051.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1351_z_fradeani_caso_clinico.053.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1351_z_fradeani_caso_clinico.053.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1353_z_fradeani_caso_clinico.056.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1353_z_fradeani_caso_clinico.056.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1355_z_fradeani_caso_clinico.058.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1355_z_fradeani_caso_clinico.058.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1357_z_fradeani_caso_clinico.061.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1357_z_fradeani_caso_clinico.061.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1359_z_fradeani_caso_clinico.063.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1359_z_fradeani_caso_clinico.063.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1468_n_06_en.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1468_n_06_en.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1362_z_fradeani_caso_clinico.067.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1362_z_fradeani_caso_clinico.067.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1368_z_fradeani_caso_clinico.073.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1368_z_fradeani_caso_clinico.073.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1369_z_fradeani_caso_clinico.075.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1369_z_fradeani_caso_clinico.075.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1373_z_fradeani_caso_clinico.079.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1373_z_fradeani_caso_clinico.079.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1467_n_06_en.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1467_n_06_en.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1375_z_fradeani_caso_clinico.082.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1375_z_fradeani_caso_clinico.082.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1379_z_fradeani_caso_clinico.086.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1379_z_fradeani_caso_clinico.086.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1489_n_7.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1489_n_7.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1473_n_07_en.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1473_n_07_en.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1537_z_fradeani_caso_clinico.148.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1537_z_fradeani_caso_clinico.148.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1538_z_fradeani_caso_clinico.149.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1538_z_fradeani_caso_clinico.149.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1473_n_07_en_1.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1473_n_07_en_1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1543_z_fradeani_caso_clinico.142.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1543_z_fradeani_caso_clinico.142.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1544_z_fradeani_caso_clinico.143.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1544_z_fradeani_caso_clinico.143.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1545_z_fradeani_caso_clinico.145.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1545_z_fradeani_caso_clinico.145.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1546_z_fradeani_caso_clinico.146.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1546_z_fradeani_caso_clinico.146.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1472_n_07_en.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1472_n_07_en.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1539_z_fradeani_caso_clinico.153.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1539_z_fradeani_caso_clinico.153.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1542_z_fradeani_caso_clinico.154.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1542_z_fradeani_caso_clinico.154.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1488_n_8.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1488_n_8.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1480_n_08_en.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1480_n_08_en.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1599_z_casi_chirurgia_mauro_fradeani.028.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1599_z_casi_chirurgia_mauro_fradeani.028.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1601_z_casi_chirurgia_mauro_fradeani.030.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1601_z_casi_chirurgia_mauro_fradeani.030.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1479_n_08_en.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1479_n_08_en.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1603_z_casi_chirurgia_mauro_fradeani.003.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1603_z_casi_chirurgia_mauro_fradeani.003.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1606_z_casi_chirurgia_mauro_fradeani.006.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1606_z_casi_chirurgia_mauro_fradeani.006.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1607_z_casi_chirurgia_mauro_fradeani.008.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1607_z_casi_chirurgia_mauro_fradeani.008.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1610_z_casi_chirurgia_mauro_fradeani.011.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1610_z_casi_chirurgia_mauro_fradeani.011.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1478_n_08_en.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1478_n_08_en.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1611_z_casi_chirurgia_mauro_fradeani.013.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1611_z_casi_chirurgia_mauro_fradeani.013.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1612_z_casi_chirurgia_mauro_fradeani.014.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1612_z_casi_chirurgia_mauro_fradeani.014.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1477_n_08_en.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1477_n_08_en.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1613_z_casi_chirurgia_mauro_fradeani.016.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1613_z_casi_chirurgia_mauro_fradeani.016.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1618_z_casi_chirurgia_mauro_fradeani.021.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1618_z_casi_chirurgia_mauro_fradeani.021.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1476_n_08_en.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1476_n_08_en.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1475_n_08_en.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1475_n_08_en.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1619_z_casi_chirurgia_mauro_fradeani.023.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1619_z_casi_chirurgia_mauro_fradeani.023.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1622_z_casi_chirurgia_mauro_fradeani.026.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1622_z_casi_chirurgia_mauro_fradeani.026.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1474_n_08_en.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1474_n_08_en.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1623_z_casi_chirurgia_mauro_fradeani.032.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1623_z_casi_chirurgia_mauro_fradeani.032.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1625_z_casi_chirurgia_mauro_fradeani.034.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1625_z_casi_chirurgia_mauro_fradeani.034.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1487_n_9.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1487_n_9.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1483_n_09_en.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1483_n_09_en.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1547_z_1.JPG
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1547_z_1.JPG
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1548_z_2.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1548_z_2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1486_n_09_en.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1486_n_09_en.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1549_z_1.JPG
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1549_z_1.JPG
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1585_z_OPT.JPG
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1585_z_OPT.JPG
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1481_n_09_en.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1481_n_09_en.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1550_z_1.JPG
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1550_z_1.JPG
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1551_z_2.JPG
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1551_z_2.JPG
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1485_n_09_en.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1485_n_09_en.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1552_z_1bis.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1552_z_1bis.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1554_z_3.png
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1554_z_3.png
+Content Type: image/png
+
+Uri: http://www.maurofradeani.com/media/immagini/1578_z_slide-8.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1578_z_slide-8.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1579_z_slide-9.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1579_z_slide-9.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1580_z_slide-10.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1580_z_slide-10.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1581_z_slide-4.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1581_z_slide-4.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1583_z_slide-2.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1583_z_slide-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1218_z_ace_institute_9.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1218_z_ace_institute_9.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1210_z_ace_institute_1.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1210_z_ace_institute_1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1582_z_slide-3.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1582_z_slide-3.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/ace_institute?pag=1
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\ace_institute-2.html
+Content Type: text/html
+
+Uri: http://www.maurofradeani.com/media/immagini/1578_t_slide-8_sq.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1578_t_slide-8_sq.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1579_t_slide-9_sq.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1579_t_slide-9_sq.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1580_t_slide-10_sq.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1580_t_slide-10_sq.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1581_t_slide-4_sq.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1581_t_slide-4_sq.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1583_t_slide-2_sq.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1583_t_slide-2_sq.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1218_t_ace_institute_t_9.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1218_t_ace_institute_t_9.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1210_t_ace_institute_t_1.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1210_t_ace_institute_t_1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1582_t_slide-3_sq.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1582_t_slide-3_sq.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1801_t_fradeani3.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1801_t_fradeani3.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/img/en.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\img\en.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/img/partecipanti.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\img\partecipanti.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/img/dove.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\img\dove.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1803_t_bacherini.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1803_t_bacherini.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1804_t_barducci(1).jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1804_t_barducci(1).jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1843_t_fradeani.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1843_t_fradeani.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1839_t_bacherini.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1839_t_bacherini.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1840_t_becciani.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1840_t_becciani.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1841_t_bombardelli.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1841_t_bombardelli.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1842_t_fabbri.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1842_t_fabbri.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1844_t_faganello.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1844_t_faganello.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1845_t_gori.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1845_t_gori.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1846_t_mintrone.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1846_t_mintrone.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1847_t_turrini.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1847_t_turrini.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/img/ita.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\img\ita.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1794_t_fradeani.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1794_t_fradeani.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1796_t_bacherini.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1796_t_bacherini.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/img/star.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\img\star.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1798_t_pedetta1.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1798_t_pedetta1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1799_t_di-giosia.jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1799_t_di-giosia.jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1800_t_Moretti(1).jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1800_t_Moretti(1).jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/media/immagini/1802_t_Grunder(1).jpg
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\media\immagini\1802_t_Grunder(1).jpg
+Content Type: image/jpeg
+
+Uri: http://www.maurofradeani.com/articles?pag=1
+File Name: c:\Downloaded Web Sites\www.maurofradeani.com\articles-3.html
+Content Type: text/html
+

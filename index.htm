@@ -1,0 +1,1232 @@
+﻿
+<!DOCTYPE html>
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]><html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]><html class="no-js lt-ie9"> <![endif]-->
+<!--[if IE 9]><html class="no-js ie9"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js">
+<!--<![endif]-->
+<head>
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+    <!--<script type="text/javascript" src="/js/countries.js?v=6"></script>-->
+    <script type="text/javascript">
+        function getCookie(c_name) {
+            var c_value = document.cookie;
+            var c_start = c_value.indexOf(" " + c_name + "=");
+            if (c_start == -1) {
+                c_start = c_value.indexOf(c_name + "=");
+            }
+            if (c_start == -1) {
+                c_value = null;
+            }
+            else {
+                c_start = c_value.indexOf("=", c_start) + 1;
+                var c_end = c_value.indexOf(";", c_start);
+                if (c_end == -1) {
+                    c_end = c_value.length;
+                }
+                c_value = unescape(c_value.substring(c_start, c_end));
+            }
+            return c_value;
+        }
+        var idLang = getCookie("idLang");
+
+        if (idLang == null)
+        {
+            var vars = [], hash;
+            var hashes = window.location.href.slice(window.location.href.indexOf('?') + 1).split('&');
+            for (var i = 0; i < hashes.length; i++) {
+                hash = hashes[i].split('=');
+                vars.push(hash[0]);
+                vars[hash[0]] = hash[1];
+            }
+            var lingua = unescape(vars["lg"]);
+            if(lingua !== "undefined")
+            {
+                var d = new Date();
+                d.setTime(d.getTime()+(2592000000)); //30 gg
+                var expires = "expires="+d.toGMTString();
+                document.cookie = "idLang=" + lingua + "; " + expires;
+            }
+            else
+            {
+                var param ="?lg=";
+                //if(document.URL.indexOf('?')>=0)
+                //{
+                //    param ="&lg=";
+                //}
+                var userLang = navigator.language || navigator.userLanguage;
+                var pathList = [{"URL":"www.maurofradeani.it","idLang":"1"},{"URL":"www.maurofradeani.com","idLang":"2"},{"URL":"maurofradeani.it","idLang":"0"},{"URL":"maurofradeani.com","idLang":"0"}]
+                for (i in pathList)
+                {
+                    if (pathList[i].idLang == "1" && userLang.toUpperCase().substring(0, 2) == "IT")
+                    {
+                        //window.location.href = document.URL + param + "2";
+
+                        if(pathList[i].URL.toLowerCase() != location.hostname.toLowerCase())
+                        {
+                            window.location.href = "http://" + pathList[i].URL + param + "1";
+                        }
+                        else
+                        {
+                            document.cookie="idLang=" + pathList[i].idLang;
+                        }
+
+                        //break;
+                    }
+                    if (pathList[i].idLang == "2" && userLang.toUpperCase().substring(0, 2) != "IT")
+                    {
+                        //window.location.href = document.URL + param + "1";
+                        if(pathList[i].URL.toLowerCase() != location.hostname.toLowerCase())
+                        {
+                            window.location.href = "http://" + pathList[i].URL + param + "2";
+                        }
+                        else
+                        {
+                            document.cookie="idLang=" + pathList[i].idLang;
+                        }
+                        //break;
+                    }
+
+                }
+            }
+
+        }
+        else
+        {
+            var d = new Date();
+            d.setTime(d.getTime()+(2592000000)); //30 gg
+            var expires = "expires="+d.toGMTString();
+            document.cookie = "idLang=" + idLang + "; " + expires;
+        }
+
+        //var siti=(Json.Encode(pathList))
+        //__countries('_siteVerified=True','AppSession.Current.CurrentCulture',''/*'www.maurofradeani.com'*/,{'':['it-IT']}/*'www.maurofradeani.it'*/);
+    </script>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>Dr. Mauro Fradeani Specialized Dentistry Clinic  - ACE Institute - Official Website</title>
+    <!--
+    Dr. Mauro Fradeani Specialized Dentistry Clinic  - ACE Institute - Official Website
+    -->
+    <meta name="description" content="Dr. Mauro Fradeani&amp;#39;s  specialized dentistry clinic and ACE Institute courses. Welcome in the official website!">
+    <meta name="keywords" content="fradeani dentistry clinic,fradeani clinic,mauro fradeani,fradeani">
+    <meta name="robots" content="index,follow">
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="canonical" href="index.htm">
+    <!--<link rel="stylesheet" href="/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/css/bootstrap-responsive.min.css">
+    <link rel="stylesheet" href="/css/superfish.css">
+    <link rel="stylesheet" href="/css/main.css">-->
+    <link rel="stylesheet" href="css\bootstrap.min.css">
+    <link rel="stylesheet" href="css\flexslider.css" type="text/css">
+    <link rel="stylesheet" href="js\vendor\fancybox\jquery.fancybox.css" type="text/css">
+    <link rel="stylesheet" href="css\main.css" type="text/css">
+
+    
+    <script src="js\vendor\modernizr-2.6.1-respond-1.1.0.min.js"></script>
+
+    <script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-41020754-1']);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+function gaTrackPage(pName)
+{
+    try
+    {
+		if (_gaq != null)
+		{
+			_gaq.push(['_trackPageview', pName]);			  
+		}
+    }
+    catch (err)
+    {  }
+} 
+function gaTrackEvent(pEventName,pEventDetail)
+{
+    try
+    {
+		if (_gaq != null)
+		{
+			_gaq.push(['_trackEvent', pEventName,pEventDetail]);
+		}
+    }
+    catch (err)
+    {  }
+} 
+</script>
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-TRRMH3T');</script>
+    <!-- End Google Tag Manager -->
+</head>
+<body class="lang_2">
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TRRMH3T" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+
+    <!--[if lt IE 7]>
+        <p class="chromeframe">You are using an outdated browser. <a href="http://browsehappy.com/">Upgrade your browser today</a> or <a href="http://www.google.com/chromeframe/?redirect=true">install Google Chrome Frame</a> to better experience this site.</p>
+    <![endif]-->
+    <div class="wrap_header">
+        <div class="container">
+            <!-- HEADER -->
+            <header>
+                <!-- PRE HEADER -->
+                <div class="pre_header">Patients: <strong>+39 0721.32781</strong><span class="separa">|</span>Education: <strong>+39 0721.64359</strong><span class="separa">|</span><a href="mailto:info@maurofradeani.it">info@maurofradeani.it</a><span class="separa">|</span><div class="clearfix hidden-lg hidden-md hidden-sm"></div><span class="social"><a target="_blank" href="http://www.facebook.com/mauro.fradeani"><img src="img\ico_facebook.png" alt="facebook"></a> <a target="_blank" href="http://www.youtube.com/user/MauroFradeani/videos"><img src="img\ico_youtube.png" alt="youtube"></a> </span><span class="separa">|</span><span class="lang">            <a href="#" class="" onclick="javascript:document.location.href=&#39;http://www.maurofradeani.it/?lg=1&#39;;">ita</a>
+            <a href="#" class="active" onclick="">eng</a>
+</span></div>
+                <!-- END PRE HEADER -->
+                <!-- LOGHI -->
+                <div class="row header_loghi">
+                    <div class="col-xs-6 logo_fradeani"><a href="index.htm" title="Fradeani - dott. Mauro Fradeani Odontoiatra Specialista"><img src="img\logo_fradeani.png" alt="Fradeani"></a></div>
+                    <div class="col-xs-6 logo_ace"><a href="http://www.fradeanieducation.com" target="_blank" title="Fradeani Education"><img src="img\logo_education.png" alt="Fradeani Education"></a></div>
+                    
+                </div>
+                <!-- END LOGHI -->
+                <!-- NAVIGBAR -->
+                <nav class="row mainNav">
+                    <div class="col-xs-7 col-sm-9 box_main_Nav">
+                        <ul class="nav">
+                                <li class="sottomenu has-fradeani">
+        <a title="Mauro Fradeani" class="mnu-level-0 " href="#box_fradeani">
+            <span>Mauro Fradeani</span>
+        </a>
+        
+    </li>    
+    <li class="">
+        <a title="Casi Clinici" class="mnu-level-0 " href="i_casi_clinici.html">
+            <span>Casi Clinici</span>
+        </a>
+        
+    </li>    
+    <li class="">
+        <a title="ACE Institute" class="mnu-level-0 btn_red" href="ace_institute.html">
+            <span>ACE Institute</span>
+        </a>
+        
+    </li>    
+    <li class="sottomenu has-ace">
+        <a title="ACE Courses" class="mnu-level-0 btn_red" href="specialized_dentistry_courses_by_dr_fradeani_information_and_registration.html">
+            <span>ACE Courses</span>
+        </a>
+        
+    </li>    
+    <li class="">
+        <a title="Newsletter" class="mnu-level-0 " href="newsletter.html">
+            <span>Newsletter</span>
+        </a>
+        
+    </li>    
+    <li class="">
+        <a title="Contact us" class="mnu-level-0 " href="contact_us.html">
+            <span>Contact us</span>
+        </a>
+        
+    </li>    
+    <li class="">
+        <a title="Links" class="mnu-level-0 " href="link.html">
+            <span>Links</span>
+        </a>
+        
+    </li>    
+
+                        </ul>
+                    </div>
+                    <div class="col-xs-5 col-sm-3 box_search">
+                        <form class="form-search" method="post" action="/doc_generico">
+                            <div class="input-append">
+                                <input type="text" placeholder="Search" class="form-control" id="q" name="q" value="">
+                                <button class="btn_search" type="submit">Search</button>
+                            </div>
+                        </form>
+                    </div>
+                </nav>
+                <!-- END NAVIGBAR -->
+                <!-- SOTTOMENU -->
+                <div class="row wrap_sottomenu clearfix">
+                    <!-- -->
+                    <div class="box_sottomenu box_fradeani">
+                        <div class="col-md-2">
+                            <ul class="clearfix first_lvl">
+                                <li><a href="the_clinician.html" title="The clinician" class="mnu-level-1">The clinician</a></li>
+                                <li><a href="the_clinic.html" title="The clinic" class="mnu-level-1">The clinic</a></li>
+                                <li><a href="the_staff.html" title="The staff" class="mnu-level-1">The staff</a></li>
+                                <li><a href="video_youtube.html" id="video_youtube">Watch the video</a></li>
+                            </ul>
+                        </div>
+                        <div class="col-md-2">
+                                            <a onclick="return mobileMenuLink()" href="publications.html" class="mnu-level-1 disable as-h1" title="Publications">Publications</a> 
+    <ul class="clearfix second_lvl">
+    <li>
+        <a href="books.html" title="Books">
+            Books
+        </a>
+        
+    </li>    
+    <li>
+        <a href="articles.html" title="Articles">
+            Articles
+        </a>
+        
+    </li>    
+            </ul>    
+
+                            <a href="/lectures" title="Lectures" class="mnu-level-1 as-h1 has-conference">Lectures</a>
+                                <ul class="clearfix second_lvl">
+    <li><a href="/lectures?anno=2017" class="has-conference has-conference-2017">2017</a></li>
+    <li><a href="/lectures?anno=2016" class="has-conference has-conference-2016">2016</a></li>
+    </ul>    
+
+                        </div>
+                        <div class="col-md-8">
+                            <a href="clinical_cases.html" title="Case studies" class="mnu-level-1 as-h1">Case studies</a>
+                            <!--<h1 class="mnu-level-1">I casi clinici</h1>-->
+                            <div class="col-md-6">
+                                                <a onclick="" href="preventionoral_hygiene_and_fluoride_treatments.html" class="mnu-level-2 disable" title="Prevention, Oral Hygiene and Fluoride Treatments">Prevention, Oral Hygiene and Fluoride Treatments</a> 
+    <ul class="clearfix second_lvl">
+    <li>
+        <a href="tooth_decay_prevention_and_periodontal_diseases.html" title="Tooth decay prevention and periodontal diseases">
+            Tooth decay prevention and periodontal diseases
+        </a>
+        
+    </li>    
+    <li>
+        <a href="oral_hygiene_and_fluoride_preventive_treatments.html" title="Oral hygiene in office">
+            Oral hygiene in office
+        </a>
+        
+    </li>    
+    <li>
+        <a href="fluoride_treatments.html" title="Fluoride Treatments">
+            Fluoride Treatments
+        </a>
+        
+    </li>    
+            </ul>    
+
+                                                <a onclick="" href="pediatric_dentistry.html" class="mnu-level-2 disable" title="Pediatric dentistry">Pediatric dentistry</a> 
+    <ul class="clearfix second_lvl">
+    <li>
+        <a href="sealings.html" title="Sealings">
+            Sealings
+        </a>
+        
+    </li>    
+    <li>
+        <a href="care_of_the_deciduous_dentition_milk_teeth.html" title="Care of the deciduous dentition (milk teeth)">
+            Care of the deciduous dentition (milk teeth)
+        </a>
+        
+    </li>    
+            </ul>    
+
+                                                <a onclick="" href="conservative_therapy.html" class="mnu-level-2 disable" title="Conservative therapy">Conservative therapy</a> 
+    <ul class="clearfix second_lvl">
+    <li>
+        <a href="filling_of_anterior_teeth.html" title="Filling of anterior teeth">
+            Filling of anterior teeth
+        </a>
+        
+    </li>    
+    <li>
+        <a href="filling_of_posterior_teeth.html" title="Filling of posterior teeth">
+            Filling of posterior teeth
+        </a>
+        
+    </li>    
+            </ul>    
+
+                                                <a onclick="" href="endodontic_treatments.html" class="mnu-level-2 disable" title="Endodontic treatments">Endodontic treatments</a> 
+    <ul class="clearfix second_lvl">
+    <li>
+        <a href="vital_tooth_devitalization.html" title="Vital tooth devitalization">
+            Vital tooth devitalization
+        </a>
+        
+    </li>    
+    <li>
+        <a href="devitalization_of_a_previously_treated_tooth.html" title="Previously treated tooth devitalization">
+            Previously treated tooth devitalization
+        </a>
+        
+    </li>    
+            </ul>    
+
+                                                <a onclick="" href="orthodontic_treatments.html" class="mnu-level-2 disable" title="Orthodontic treatments">Orthodontic treatments</a> 
+    <ul class="clearfix second_lvl">
+    <li>
+        <a href="fixed_orthodontics.html" title="Fixed orthodontics">
+            Fixed orthodontics
+        </a>
+        
+    </li>    
+    <li>
+        <a href="invisible_orthodontics.html" title="Invisible orthodontics">
+            Invisible orthodontics
+        </a>
+        
+    </li>    
+    <li>
+        <a href="early_orthodontics.html" title="Early orthodontics">
+            Early orthodontics
+        </a>
+        
+    </li>    
+            </ul>    
+
+                            </div>
+                            <div class="col-md-6">
+                                                <a onclick="" href="prosthetic_treatments.html" class="mnu-level-2 disable" title="Prosthetic treatments">Prosthetic treatments</a> 
+    <ul class="clearfix second_lvl">
+    <li>
+        <a href="esthetic_rehabilitation_of_the_anterior_area_of_the_natural_teeth.html" title="Esthetic rehabilitation of the anterior area of the natural teeth">
+            Esthetic rehabilitation of the anterior area of the natural teeth
+        </a>
+        
+    </li>    
+    <li>
+        <a href="esthetic_rehabilitation_of_the_anterior_area_on_implants.html" title="Esthetic rehabilitation of the anterior area on implants">
+            Esthetic rehabilitation of the anterior area on implants
+        </a>
+        
+    </li>    
+    <li>
+        <a href="complete_esthetic_rehabilitation_on_natural_dentition.html" title="Complete esthetic rehabilitation on natural dentition">
+            Complete esthetic rehabilitation on natural dentition
+        </a>
+        
+    </li>    
+    <li>
+        <a href="complete_esthetic_rehabilitation_on_implants.html" title="Complete esthetic rehabilitation on implants">
+            Complete esthetic rehabilitation on implants
+        </a>
+        
+    </li>    
+    <li>
+        <a href="prosthetic_rehabilitation_on_natural_dentition_and_implants.html" title="Prosthetic rehabilitation on natural dentition and implants">
+            Prosthetic rehabilitation on natural dentition and implants
+        </a>
+        
+    </li>    
+            </ul>    
+
+                                                <a onclick="" href="teeth_whitening.html" class="mnu-level-2 disable" title="Tooth Bleaching">Tooth Bleaching</a> 
+    <ul class="clearfix second_lvl">
+    <li>
+        <a href="vital_teeth_whitening_in_office.html" title="Vital Teeth whitening in office">
+            Vital Teeth whitening in office
+        </a>
+        
+    </li>    
+    <li>
+        <a href="devitalized_teeth_whitening_in_office.html" title="Devitalized Teeth whitening in office">
+            Devitalized Teeth whitening in office
+        </a>
+        
+    </li>    
+    <li>
+        <a href="home_teeth_whitening.html" title="Home tooth bleaching">
+            Home tooth bleaching
+        </a>
+        
+    </li>    
+            </ul>    
+
+                                                <a onclick="" href="_8.html" class="mnu-level-2 disable" title="Oral and implant surgery. Periodontology">Oral and implant surgery. Periodontology</a> 
+    <ul class="clearfix second_lvl">
+    <li>
+        <a href="maxillary_sinus_lift.html" title="Maxillary sinus lift">
+            Maxillary sinus lift
+        </a>
+        
+    </li>    
+    <li>
+        <a href="periodontal_surgery.html" title="Periodontal surgery">
+            Periodontal surgery
+        </a>
+        
+    </li>    
+    <li>
+        <a href="gingival_recession_treatment.html" title="Gingival recession treatment">
+            Gingival recession treatment
+        </a>
+        
+    </li>    
+    <li>
+        <a href="immediate_load_implantology.html" title="Immediate load implantology">
+            Immediate load implantology
+        </a>
+        
+    </li>    
+    <li>
+        <a href="guided_implant_surgery.html" title="Guided implant surgery">
+            Guided implant surgery
+        </a>
+        
+    </li>    
+    <li>
+        <a href="bone_regeneration.html" title="Bone regeneration">
+            Bone regeneration
+        </a>
+        
+    </li>    
+    <li>
+        <a href="surgical_extractions.html" title="Surgical extractions">
+            Surgical extractions
+        </a>
+        
+    </li>    
+            </ul>    
+
+                                                <a onclick="" href="2d_and_3d_image_diagnostics.html" class="mnu-level-2 disable" title="2D and 3D image diagnostics">2D and 3D image diagnostics</a> 
+    <ul class="clearfix second_lvl">
+    <li>
+        <a href="intraoral_status.html" title="Intraoral status">
+            Intraoral status
+        </a>
+        
+    </li>    
+    <li>
+        <a href="orthopantomography.html" title="Orthopantomography">
+            Orthopantomography
+        </a>
+        
+    </li>    
+    <li>
+        <a href="teleradiography.html" title="Teleradiography">
+            Teleradiography
+        </a>
+        
+    </li>    
+    <li>
+        <a href="cone_beam_test.html" title="Cone beam test">
+            Cone beam test
+        </a>
+        
+    </li>    
+            </ul>    
+
+                            </div>
+                        </div>
+                    </div>
+                    <!-- -->
+                    
+                    <!-- -->
+                </div>
+                <!-- END SOTTOMENU -->
+            </header>
+            <!-- END HEADER -->
+        </div>
+    </div>
+    
+<!-- SHOWREEL -->
+<div class="wrap_showreel">
+  <div class="container"> 
+    <!-- CAROUSEL -->
+    <div class="carousel">
+      <a href="#" id="widget_video">Video</a>
+      <div id="video_home"><a href="#" title="Video Home"><img src="img\video_home.jpg"></a></div>
+      <div id="hp_slideshow">
+        <div class="slide"><a href="the_clinician.html" title="The clinician"><img src="media\immagini\1111_n_ilclinico.jpg" alt="The clinician" width="1170" height="530"></a>
+          <div>
+            <h4>The clinician</h4>
+          </div>
+        </div>
+        <div class="slide"><a href="the_clinic.html" title="The clinic"><img src="media\immagini\1112_n_lo_studio.jpg" alt="The clinic" width="1170" height="530"></a>
+          <div>
+            <h4>The clinic</h4>
+          </div>
+        </div>
+        <div class="slide"><a href="clinical_cases.html" title="Case studies"><img src="media\immagini\1113_n_casi_clinici.jpg" alt="Case studies" width="1170" height="530"></a>
+          <div>
+            <h4>Case studies</h4>
+          </div>
+        </div>
+        <div class="slide"><a href="ace_institute.html" title="ACE Institute"><img src="media\immagini\1114_n_aceinstitute.jpg" alt="ACE Institute" width="1170" height="530"></a>
+          <div>
+            <h4>ACE Institute</h4>
+          </div>
+        </div>
+      </div>
+      <div class="clearfix"></div>
+      <div class="row" id="hp_slideshow_pag">
+      </div>
+    </div>
+    <!-- END CAROUSEL --> 
+  </div>
+</div>
+<!-- END SHOWREEL -->
+<div class="container">
+  <div class="divider small03"></div>
+</div>
+<div class="wrap_corpo tmpl_home">
+  <div class="container">
+  	<!-- WRAP CORPO INTERNO--> 
+  	<div class="wrap_corpo_int">
+    <!-- BLOCCO HOME -->
+    <div class="row blocchi_home">
+      <div class="col-sm-3"> 
+        <!-- BLOCCO SX -->
+        <div class="block_sx clearfix">
+            
+            <div class="box_img"><a href="the_clinician.html"><img src="media\immagini\1134_n_il_clinico.jpg" alt="The clinician"></a></div>    
+            <h1>The clinician</h1>
+            
+<p>
+             Dr. Fradeani graduated in medicine and surgery from the University of Ancona in 1979, where he then completed a specialization in Dentistry in 1983.  
+He was president of the European Academy of Est...
+    </p>
+          <a href="the_clinician.html" title="The clinician" class="btn-cta pull-right">Read all</a>
+        </div>
+        <!-- END BLOCCO SX --> 
+      </div>
+      <div class="col-sm-6"> 
+        <!-- BLOCCO CX -->
+        <div class="block_cx clearfix">
+          
+            <h1>The clinic</h1>
+            
+<p>
+             Setting up a confidential rapport is very important for patients, so they feel that they can express their problems during a friendly interview in a relaxed atmosphere. 
+
+ At their first visit in t...
+    </p>
+          <a href="the_clinic.html" title="The clinic" class="btn-cta pull-right">Read all</a>
+          <div class="divider blank clearfix"></div>
+          <!-- BOX OMBRA -->
+          <div class="box_shadow clearfix">
+            
+
+            <h2><a href="clinical_cases.html" title="Case studies">Case studies</a></h2>
+            
+          <a href="clinical_cases.html" title="Case studies" class="btn-arrow pull-right">Read all</a>
+          </div>
+          <!-- END BOX OMBRA --> 
+          <!-- BOX OMBRA -->
+          <div class="box_shadow clearfix">
+            
+
+            <h2><a href="the_staff.html" title="The staff">The staff</a></h2>
+            
+          <a href="the_staff.html" title="The staff" class="btn-arrow pull-right">Read all</a>
+          </div>
+          <!-- END BOX OMBRA --> 
+          <!-- BOX OMBRA -->
+          <div class="box_shadow clearfix">
+            
+
+            <h2><a href="books.html" title="Books">Books</a></h2>
+            
+          <a href="books.html" title="Books" class="btn-arrow pull-right">Read all</a>
+          </div>
+          <!-- END BOX OMBRA --> 
+        </div>
+        <!-- END BLOCCO CX --> 
+      </div>
+      <div class="col-sm-3"> 
+        <!-- BLOCCO DX -->
+        <div class="block_dx clearfix"> 
+          <!-- BOX OMBRA -->
+          
+
+<div class="box_shadow clearfix">
+            <h2>Lectures</h2>
+            <p> Dr. Fradeani lectures extensively in Italy and abroad on periodontal and implant prosthetics and on esthetic rehabilitation in fixed prosthodontics. Here you can find a selection ...</p>
+          <div class="divider mini"></div>
+        <a href="/lectures" class="has-conference">Conferences Archive</a>
+          </div>
+          <!-- END BOX OMBRA --> 
+        </div>
+        <!-- END BLOCCO DX --> 
+      </div>
+    </div>
+    <!-- END BLOCCO HOME -->
+    <div class="divider small03 notop"></div>
+    <!-- BLOCCO HOME -->
+    <div class="row blocchi_home">
+      <div class="col-sm-3"> 
+        <!-- BLOCCO SX -->
+        <div class="block_sx clearfix">
+            
+            <div class="box_img"><a href="ace_institute.html"><img src="media\immagini\1133_n_img_ace.jpg" alt="ACE Institute"></a></div>    
+            <h1>ACE Institute</h1>
+            
+<p>
+             ACE - Advanced Continuing Education was created by Dr. Mauro Fradeani in 2000 with the aim of expanding knowledge and professional skills in esthetic dentistry. ACE organizes courses dedicated exclus...
+    </p>
+          <a href="ace_institute.html" title="ACE Institute" class="btn-cta pull-right">Read all</a>
+          </div>
+        <!-- END BLOCCO SX --> 
+      </div>
+      <div class="col-sm-6"> 
+        <!-- BLOCCO CX -->
+        <div class="block_cx clearfix">
+          <h1>Courses</h1>
+          <!-- BOX OMBRA -->
+          <div class="box_shadow box_corsi clearfix">
+    
+
+          </div>
+          <!-- END BOX OMBRA --> 
+        </div>
+        <!-- END BLOCCO CX --> 
+      </div>
+      <div class="col-sm-3"> 
+        <!-- BLOCCO DX -->
+        <div class="block_dx clearfix"> 
+            
+
+
+<div class="box_shadow box_newsletter clearfix hidden-xs">
+              <h2>Subscribe to our newsletter</h2>
+              <p>Fill in the form to subscribe to our newsletter, you will be updated on all of our activities.</p>
+              <form action="/newsletter" method="post" class="form-newsletter">
+                <div class="input-append">
+                  <input type="text" value="" name="email" class="form-control" placeholder="Please write your e-mail">
+                </div>
+            <p>
+                <label class="checkbox-inline">
+                  <input type="checkbox" value="1" name="Privacy" class="required">
+                  Yes, </label>
+                I accept the <a class="info" href="informativa_sulla_privacy.html">privacy policy</a></p>
+                <a href="#" title="Subscribe" onclick="return linkSubmit(this)" class="btn-cta-02 pull-right">Subscribe</a>
+          <div style="display:none;">
+              <input class="btn btn-default submit" type="submit">
+          </div>
+              
+              </form>
+    </div>
+          <!-- BOX OMBRA 
+          <div class="box_shadow box_newsletter clearfix hidden-xs hidden-sm">
+            <h2>Iscriviti alla newsletter</h2>
+            <p>Compila il form per iscriverti alla nostra newsletter, sarai aggiornato su tutte le nostre attività.</p>
+            <form action="search" method="post" class="form-newsletter">
+              <div class="input-append">
+                <input type="text" value="" name="q" id="q" class="form-control" placeholder="Inserisci la tua email">
+              </div>
+              <p>
+                <label class="checkbox-inline">
+                  <input type="checkbox" value="option1" id="inlineCheckbox1">
+                  Si, </label>
+                accetto l’<a href="#">informativa</a> sulla privacy</p>
+              <a href="#" title="Iscriviti" class="btn-cta-02 pull-right">Iscriviti</a>
+            </form>
+          </div>
+           END BOX OMBRA --> 
+        </div>
+        <!-- END BLOCCO DX --> 
+      </div>
+    </div>
+    <!-- END BLOCCO HOME -->
+    <div class="divider small03 notop"></div>
+    <!-- BLOCCO CONTATTI -->
+    <div class="wrap_box_contatti">
+    <div class="row box_contatti">
+      <div class="col-sm-6 box_mappa">
+        <div class="img_mappa"><img src="img\mappa_home.jpg"></div>
+        <p class="indirizzo">Corso XI Settembre, 92 - 61121 Pesaro</p>
+        <p class="orari">Patients: <strong>+39 0721.32781</strong><span class="separa"></span><br>
+        Education: <strong>+39 0721.64359</strong><br>
+        <a href="mailto:info@maurofradeani.it">info@maurofradeani.it</a></p>
+      </div>
+      <div class="col-sm-6 box_contattaci"> <span class="obbligatorio"><em>*</em> Mandatory fields</span>
+        <h1>Contact us</h1>
+        <form role="form" id="form_contatti" class="form_contattaci" method="post" action="/ws/wsUsers.asmx/Contact">
+          <div class="form-group column_d">
+            <input type="text" placeholder="Name *" name="Nome" class="form-control required">
+          </div>
+          <div class="form-group column_p">
+            <input type="text" placeholder="Surname *" name="Cognome" class="form-control required">
+          </div>
+          <div class="form-group column_d">
+            <input type="email" placeholder="Email *" name="Email" class="form-control required">
+          </div>
+          <div class="form-group column_p">
+            <input type="text" placeholder="Address " name="Indirizzo" class="form-control">
+          </div>
+          <div class="form-group column_d">
+            <!--<select class="form-control">-->
+            <select class="form-control selectpicker required" name="Nazione">
+          <option value="-1">Country *</option>
+          <option value="1">Afghanistan</option>
+<option value="240">Aland Islands</option>
+<option value="2">Albania</option>
+<option value="3">Algeria</option>
+<option value="190">American Samoa</option>
+<option value="237">Andorra</option>
+<option value="4">Angola</option>
+<option value="5">Anguilla</option>
+<option value="251">Antarctic</option>
+<option value="6">Antigua and Barbuda</option>
+<option value="9">Argentina</option>
+<option value="10">Armenia</option>
+<option value="11">Aruba</option>
+<option value="12">Australia</option>
+<option value="13">Austria</option>
+<option value="14">Azerbaijan</option>
+<option value="15">Bahamas</option>
+<option value="16">Bahrain</option>
+<option value="17">Bangladesh</option>
+<option value="18">Barbados</option>
+<option value="24">Belarus</option>
+<option value="19">Belgium</option>
+<option value="20">Belize</option>
+<option value="21">Benin</option>
+<option value="22">Bermuda</option>
+<option value="23">Bhutan</option>
+<option value="26">Bolivia</option>
+<option value="27">Bosnia-Herzeg.</option>
+<option value="28">Botswana</option>
+<option value="29">Bouvet Island</option>
+<option value="30">Brazil</option>
+<option value="215">British Indian Ocean Territory</option>
+<option value="31">Brunei Darussalam</option>
+<option value="32">Bulgaria</option>
+<option value="33">Burkina Faso</option>
+<option value="34">Burundi</option>
+<option value="35">Cambodia</option>
+<option value="36">Cameroon</option>
+<option value="37">Canada</option>
+<option value="38">Cape Verde</option>
+<option value="103">Cayman Islands</option>
+<option value="177">Centr. African Rep.</option>
+<option value="39">Chad</option>
+<option value="40">Chile</option>
+<option value="41">China</option>
+<option value="100">Christmas Island</option>
+<option value="44">Cocos (Keeling) Islands</option>
+<option value="45">Colombia</option>
+<option value="46">Comoros</option>
+<option value="47">Congo</option>
+<option value="241">Congo, Dem. Rep.</option>
+<option value="104">Cook Islands</option>
+<option value="52">Costa Rica</option>
+<option value="51">Cote d&#39;Ivoire</option>
+<option value="53">Croatia</option>
+<option value="54">Cuba</option>
+<option value="42">Cyprus</option>
+<option value="176">Czech Republic</option>
+<option value="55">Denmark</option>
+<option value="56">Djibouti</option>
+<option value="57">Dominica</option>
+<option value="179">Dominican Republic</option>
+<option value="61">Ecuador</option>
+<option value="58">Egypt</option>
+<option value="59">El Salvador</option>
+<option value="87">Equatorial Guinea</option>
+<option value="62">Eritrea</option>
+<option value="63">Estonia</option>
+<option value="64">Ethiopia</option>
+<option value="138">Falkland Islands (Malvinas)</option>
+<option value="105">Faroe Islands</option>
+<option value="106">Fiji</option>
+<option value="66">Finland</option>
+<option value="67">France</option>
+<option value="82">French Guiana</option>
+<option value="171">French Polynesia</option>
+<option value="249">French South. Territ.</option>
+<option value="68">Gabon</option>
+<option value="69">Gambia</option>
+<option value="70">Georgia</option>
+<option value="72">Germany</option>
+<option value="73">Ghana</option>
+<option value="76">Gibraltar</option>
+<option value="79">Greece</option>
+<option value="80">Greenland</option>
+<option value="78">Grenada</option>
+<option value="81">Guadeloupe</option>
+<option value="83">Guam</option>
+<option value="84">Guatemala</option>
+<option value="243">Guernsey</option>
+<option value="85">Guinea</option>
+<option value="86">Guinea-Bissau</option>
+<option value="88">Guyana</option>
+<option value="89">Haiti</option>
+<option value="107">Heard and McDonald Is.</option>
+<option value="90">Honduras</option>
+<option value="91">Hong Kong</option>
+<option value="92">Hungary</option>
+<option value="99">Iceland</option>
+<option value="93">India</option>
+<option value="94">Indonesia</option>
+<option value="97">Iran</option>
+<option value="96">Iraq</option>
+<option value="98">Ireland</option>
+<option value="244">Isle of Man</option>
+<option value="113">Israel</option>
+<option value="114" selected="">Italy</option>
+<option value="74">Jamaica</option>
+<option value="75">Japan</option>
+<option value="245">Jersey</option>
+<option value="77">Jordan</option>
+<option value="115">Kazakhstan</option>
+<option value="116">Kenya</option>
+<option value="118">Kiribati</option>
+<option value="49">Korea, North</option>
+<option value="50">Korea, South</option>
+<option value="119">Kosovo</option>
+<option value="120">Kuwait</option>
+<option value="117">Kyrgyzstan</option>
+<option value="121">Laos</option>
+<option value="123">Latvia</option>
+<option value="124">Lebanon</option>
+<option value="122">Lesotho</option>
+<option value="125">Liberia</option>
+<option value="126">Libya</option>
+<option value="127">Liechtenstein</option>
+<option value="128">Lithuania</option>
+<option value="129">Luxembourg</option>
+<option value="130">Macao</option>
+<option value="131">Macedonia</option>
+<option value="132">Madagascar</option>
+<option value="133">Malawi</option>
+<option value="134">Malaysia</option>
+<option value="135">Maldives</option>
+<option value="136">Mali</option>
+<option value="137">Malta</option>
+<option value="108">Marshall Islands</option>
+<option value="141">Martinique</option>
+<option value="143">Mauritania</option>
+<option value="142">Mauritius</option>
+<option value="144">Mayotte</option>
+<option value="145">Mexico</option>
+<option value="146">Micronesia</option>
+<option value="147">Moldova</option>
+<option value="148">Monaco</option>
+<option value="149">Mongolia</option>
+<option value="246">Montenegro</option>
+<option value="150">Montserrat</option>
+<option value="140">Morocco</option>
+<option value="151">Mozambique</option>
+<option value="25">Myanmar</option>
+<option value="152">Namibia</option>
+<option value="153">Nauru</option>
+<option value="154">Nepal</option>
+<option value="163">Netherlands</option>
+<option value="7">Netherlands Antilles</option>
+<option value="160">New Caledonia</option>
+<option value="161">New Zealand</option>
+<option value="155">Nicaragua</option>
+<option value="156">Niger</option>
+<option value="157">Nigeria</option>
+<option value="158">Niue</option>
+<option value="101">Norfolk Island</option>
+<option value="139">Northern Mariana Islands</option>
+<option value="159">Norway</option>
+<option value="162">Oman</option>
+<option value="164">Pakistan</option>
+<option value="165">Palau</option>
+<option value="247">Palestinian Territory</option>
+<option value="166">Panama</option>
+<option value="167">Papua New Guinea</option>
+<option value="168">Paraguay</option>
+<option value="169">Peru</option>
+<option value="65">Philippines</option>
+<option value="170">Pitcairn</option>
+<option value="172">Poland</option>
+<option value="173">Portugal</option>
+<option value="174">Puerto Rico</option>
+<option value="175">Qatar</option>
+<option value="180">Reunion</option>
+<option value="181">Romania</option>
+<option value="182">Russian Federation</option>
+<option value="183">Rwanda</option>
+<option value="185">Saint Kitts and Nevis</option>
+<option value="186">Saint Lucia</option>
+<option value="187">Saint Pierre and Miquelon</option>
+<option value="188">Saint Vincent and the Grenadines</option>
+<option value="189">Samoa</option>
+<option value="178">San Marino</option>
+<option value="192">Sao Tome and Principe</option>
+<option value="8">Saudi Arabia</option>
+<option value="193">Senegal</option>
+<option value="248">Serbia</option>
+<option value="195">Seychelles</option>
+<option value="196">Sierra Leone</option>
+<option value="197">Singapore</option>
+<option value="199">Slovakia</option>
+<option value="200">Slovenia</option>
+<option value="109">Solomon Islands</option>
+<option value="201">Somalia</option>
+<option value="205">South Africa</option>
+<option value="71">South Georgia/the S. Sandwich Is.</option>
+<option value="202">Spain</option>
+<option value="203">Sri Lanka</option>
+<option value="191">St Helena</option>
+<option value="206">Sudan</option>
+<option value="207">Suriname</option>
+<option value="110">Svalbard and Jan Mayen</option>
+<option value="210">Swaziland</option>
+<option value="208">Sweden</option>
+<option value="209">Switzerland</option>
+<option value="198">Syria</option>
+<option value="212">Taiwan</option>
+<option value="214">Tajikistan</option>
+<option value="213">Tanzania</option>
+<option value="211">Thailand</option>
+<option value="216">Timor Est</option>
+<option value="250">Timor-Leste</option>
+<option value="217">Togo</option>
+<option value="218">Tokelau</option>
+<option value="219">Tonga</option>
+<option value="220">Trinidad and Tobago</option>
+<option value="221">Tunisia</option>
+<option value="222">Turkey</option>
+<option value="223">Turkmenistan</option>
+<option value="224">Turks and Caicos Islands</option>
+<option value="225">Tuvalu</option>
+<option value="227">Uganda</option>
+<option value="226">Ukraine</option>
+<option value="60">United Arab Emirates</option>
+<option value="95">United Kingdom</option>
+<option value="204">United States</option>
+<option value="228">Uruguay</option>
+<option value="102">US Minor Outlying Islands</option>
+<option value="229">Uzbekistan</option>
+<option value="230">Vanuatu</option>
+<option value="43">Vatican City State</option>
+<option value="231">Venezuela</option>
+<option value="232">Vietnam</option>
+<option value="112">Virgin Islands UK</option>
+<option value="111">Virgin Islands US</option>
+<option value="233">Wallis and Futuna</option>
+<option value="184">Western Sahara</option>
+<option value="234">Yemen</option>
+<option value="235">Zambia</option>
+<option value="236">Zimbabwe</option>
+
+        </select>          </div>
+          <div class="form-group column_p">
+            <input type="text" placeholder="City " name="Citta" class="form-control">
+          </div>
+          <div class="form-group in_line">
+            <textarea class="form-control" placeholder="Type your text" name="Note" rows="3"></textarea>
+          </div>
+          <input type="hidden" class="form-control" name="TipoRichiesta" value="Contact us">
+
+            <div class="form-group">
+                    <label class="checkbox-inline">
+        <input type="checkbox" value="1" name="Privacy" class="required">
+
+        Yes,
+
+        I accept the <a class="info" href="informativa_sulla_privacy.html">privacy policy</a>
+
+    </label>
+
+                <a href="#" onclick="return linkSubmit(this)" title="Invia" class="btn btn-cta-02 pull-right">Send</a>  
+            </div>
+          <div style="display:none;">
+              <input class="btn btn-default submit" type="submit">
+          </div>
+        <div class="loading" style="display:none;">
+            Saving data: please wait...
+        </div>
+        <div class="thank_you" style="display:none;">
+            Thank you for contacting us.
+        </div>
+        </form>
+      </div>
+    </div>
+    </div>
+    <!-- END CONTATTI --> 
+  </div>
+  <!-- END BLOCCO HOME -->
+  </div>
+  <!-- END WRAP CORPO INTERNO--> 
+</div>
+
+
+    <footer>
+        <div class="container">
+            <div class="row wrap_foo">
+                <div class="divider small_footer"></div>
+                <!-- WRAP INTERNO -->
+                <div class="wrap_foo_interno">
+                    <!-- BLOCCO PREFOOTER -->
+                    <div class="col-sm-12">
+                        <div class="row box_prefooter">
+                            <div class="col-sm-8 box_mini_sitemap">
+                                <div class="row">
+                                    <div class="col-sm-3">
+                                        <h3>Mauro Fradeani</h3>
+                                        <ul>
+                                            <li><a href="the_clinician.html" title="The clinician">The clinician</a></li>
+                                            <li><a href="the_clinic.html" title="The clinic">The clinic</a></li>
+                                            <!--<li><a href="/clinical_cases" title="Case studies">Case studies</a></li>
+                                            <li><a href="#">Pubblicazioni</a></li>
+                                            <li><a href="#">Confrenze</a></li>-->
+                                        </ul>
+                                    </div>
+                                    <div class="col-sm-3">
+                                        <h3>ACE Institute</h3>
+                                        <ul>
+                                            <li><a href="ace_institute.html" title="ACE Institute">ACE Institute</a></li>
+                                        </ul>
+                                    </div>
+                                    <div class="col-sm-6">
+                                        <h3>Clinical case studies</h3>
+                                        <ul>
+                                            <li><a href="preventionoral_hygiene_and_fluoride_treatments.html" title="Prevention, Oral Hygiene and Fluoride Treatments">Prevention, Oral Hygiene and Fluoride Treatments</a></li>
+                                            <li><a href="pediatric_dentistry.html" title="Pediatric dentistry">Pediatric dentistry</a></li>
+                                            <li><a href="conservative_therapy.html" title="Conservative therapy">Conservative therapy</a></li>
+                                            <li><a href="endodontic_treatments.html" title="Endodontic treatments">Endodontic treatments</a></li>
+                                            <li><a href="orthodontic_treatments.html" title="Orthodontic treatments">Orthodontic treatments</a></li>
+                                            <li><a href="prosthetic_treatments.html" title="Prosthetic treatments">Prosthetic treatments</a></li>
+                                            <li><a href="teeth_whitening.html" title="Tooth Bleaching">Tooth Bleaching</a></li>
+                                            <li><a href="_8.html" title="Oral and implant surgery. Periodontology">Oral and implant surgery. Periodontology</a></li>
+                                            <li><a href="2d_and_3d_image_diagnostics.html" title="2D and 3D image diagnostics">2D and 3D image diagnostics</a></li>
+                                        </ul>
+
+
+                                        
+
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-sm-4 box_nl_iscrizione">
+                                <h3>Subscribe to our newsletter</h3>
+                                <p>Fill in the form to subscribe to our newsletter, you will be updated on all of our activities.</p>
+                                <form action="/newsletter" method="post" class="form-newsletter">
+                                    <div class="input-append">
+                                        <input type="text" value="" name="email" class="form-control" placeholder="Please write your e-mail">
+                                    </div>
+                                        <label class="checkbox-inline">
+        <input type="checkbox" value="1" name="Privacy" class="required">
+
+        Yes,
+
+        I accept the <a class="info" href="informativa_sulla_privacy.html">privacy policy</a>
+
+    </label>
+
+                                    <a href="#" title="Subscribe" onclick="return linkSubmit(this)" class="btn btn-cta-02 pull-right">Subscribe</a>
+                                    <div style="display:none;">
+                                        <input class="btn btn-default submit" type="submit">
+                                    </div>
+                                </form>
+                                <form id="video" method="post" action="#" onsubmit="return false;">
+                                    <input id="linkVideo" type="hidden" value="https://www.youtube.com/v/kA7HnXs_R_g?rel=0&amp;hl=EN_GB&amp;autoplay=1">
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- END BLOCCO PREFOOTER -->
+                    <!-- BLOCCO FOOTER -->
+                    <div class="col-sm-12">
+                        <div class="row footer_social">
+                            <div class="col-sm-3"> <span class="social"><a target="_blank" href="http://www.facebook.com/mauro.fradeani"><img src="img\ico_facebook.png" alt="facebook"></a> <a target="_blank" href="http://www.youtube.com/user/MauroFradeani/videos"><img src="img\ico_youtube.png" alt="youtube"></a> </span> <span class="separa">|</span> <span class="lang">            <a href="#" class="" onclick="javascript:document.location.href=&#39;http://www.maurofradeani.it/?lg=1&#39;;">ita</a>
+            <a href="#" class="active" onclick="">eng</a>
+</span></div>
+                            <div class="col-sm-9 footer_orari">Patients: <strong>+39 0721.32781</strong><span class="separa">|</span>Education: <strong>+39 0721.64359</strong><span class="separa">|</span><a href="mailto:info@maurofradeani.it">info@maurofradeani.it</a> </div>
+                        </div>
+                    </div>
+                    <!-- END BLOCCO FOOTER -->
+                    <!-- BLOCCO COPY -->
+                    <div class="col-sm-12">
+                        <div class="row copy">
+                            <div class="col-sm-9">
+                                All rights reserved - © 2013 | Advanced Continuing Education srl | P.Iva 02042350419 <br>
+                                Corso XI Settembre, 92 - Pesaro, Italia | Tel. and Fax : +39.0721.64359 - Email: <a href="mailto:ace@aceinstitute.it">ace@aceinstitute.it</a>
+                            </div>
+                            <div class="col-sm-3 firma"><a title="web agency websolute" target="_blank" href="http://www.websolute.it">web agency</a> <img src="img\web_agency.png" alt=""> Websolute</div>
+                        </div>
+                    </div>
+                    <!-- END COPY -->
+                </div>
+                <!-- END WRAP INTERNO -->
+            </div>
+        </div>
+    </footer>
+
+    <!--CORSI ACE-->
+    <div id="cont-alert-ace">
+        <div id="alert-ace">
+            <div class="logo-education"><img src="img\logo_education-redirect.png"></div>
+            You will find the complete list of Dr. Mauro Fradeani's didactic activities and that of the Fradeani Education group on the new website <a href="http://www.fradeanieducation.com/en/courses/">www.fradeanieducation.com</a>
+            <div class="skip-count">
+                You will be redirected in <span id="count"></span> seconds
+                <a href="http://www.fradeanieducation.com/en/courses/" class="skip">go directly to the website</a>
+
+            </div>
+        </div>
+    </div>
+    <!--FINE CORSI ACE-->
+
+    <!--CONFERENZE-->
+    <div id="cont-alert-conferenze">
+        <div id="alert-conferenze">
+            <div class="logo-education"><img src="img\logo_education-redirect.png"></div>
+            You will find the complete list of Dr. Mauro Fradeani's lectures and that of the Fradeani Education group on the new website <a href="http://www.fradeanieducation.com/en/lectures">www.fradeanieducation.com</a>
+            <div class="skip-count">
+                You will be redirected in <span id="count"></span> seconds
+                <a href="http://www.fradeanieducation.com/en/lectures" class="skip">go directly to the website</a>
+
+            </div>
+        </div>
+    </div>
+    <!--FINE CONFERENZE-->
+            <div id="acceptcookie">
+            Cookies help us deliver our services. Using these services, you agree to the use of cookies on our part. <a href="cookie_policy.html">Info</a> <button onclick="var dt=new Date();dt.setDate(dt.getDate()+365);document.cookie='_cookiepolicy=accept; path=/; expires='+dt.toUTCString();$('#acceptcookie').remove();return false;">OK</button>
+        </div>
+
+
+
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+    <script>window.jQuery || document.write('<script src="/js/vendor/jquery-1.8.2.min.js"><\/script>')</script>
+    <script type="text/javascript" src="js\vendor\json2.min.js"></script>
+    <script src="js\vendor\bootstrap.min.js"></script>
+    <script src="js\vendor\superfish.js"></script>
+    <script src="js\vendor\flexslider.js"></script>
+    <script src="js\vendor\fancybox\jquery.fancybox.pack.js"></script>
+    <script src="js\vendor\modernizr-2.6.1-respond-1.1.0.min.js"></script>
+    <script src="js\vendor\jquery.mousewheel.min.js"></script>
+    <script src="js\vendor\jquery.touchSwipe.min.js"></script>
+    <script src="js\vendor\jquery.carouFredSel-6.1.0-packed.js"></script>
+    <script src="js\vendor\jquery.validate.js"></script> <!-- form module -->
+
+    <script src="js\main.js"></script>
+    <script src="js\corsi-ace.js"></script>
+    <script src="js\wsForms.js"></script>  <!-- form module -->
+    <script type="text/javascript">
+        function linkSubmit(sender){
+            var form = $(sender).parents('form:first');
+            $(form).submit();
+            return false;
+        }
+    </script>
+    
+    
+    <!--<script src="/js/vendor/bootstrap-select.min.js"></script>-->
+    <script>
+        $(function () {
+            $('#form_contatti').validate({
+                callbackHandler: function (data, form) {
+                    if (data.d.Status) {
+                        $(form).find("input:submit").remove();
+                        $(form).find(".error").remove();
+                        $(form).find(".result").html(data.d.HTML);
+                    } else {
+                        $(form).find(".error").html(data.d.HTML);
+                    }
+                }
+            });
+        });
+    </script>
+
+    
+</body>
+</html>
+
