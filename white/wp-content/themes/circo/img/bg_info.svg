@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 51.1 (57501) - http://www.bohemiancoding.com/sketch -->
+    <title>A3110FCB-6DB8-4E36-85F8-AF838C994E00</title>
+    <desc>Created with sketchtool.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="CONTACT" transform="translate(-615.000000, -317.000000)" fill="#6A6868" fill-rule="nonzero">
+            <g id="Info" transform="translate(215.000000, 157.000000)">
+                <g id="Telefon" transform="translate(400.000000, 116.000000)">
+                    <g id="Notice" transform="translate(0.000000, 43.000000)">
+                        <g id="round-e-info" transform="translate(0.000000, 1.000000)">
+                            <path d="M8,0 C3.6,0 0,3.6 0,8 C0,12.4 3.6,16 8,16 C12.4,16 16,12.4 16,8 C16,3.6 12.4,0 8,0 Z M8,14 C4.7,14 2,11.3 2,8 C2,4.7 4.7,2 8,2 C11.3,2 14,4.7 14,8 C14,11.3 11.3,14 8,14 Z" id="Shape"></path>
+                            <rect id="Rectangle-path" x="7" y="7" width="2" height="5"></rect>
+                            <circle id="Oval" cx="8" cy="5" r="1"></circle>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,196 @@
+Uri: https://www.circodentistry.ro/
+File Name: c:\Downloaded Web Sites\www.circodentistry.ro\index.htm
+Content Type: text/html
+
+Uri: https://www.circodentistry.ro/wp-content/themes/circo/img/bg_info.svg
+File Name: c:\Downloaded Web Sites\www.circodentistry.ro\wp-content\themes\circo\img\bg_info.svg
+Content Type: image/svg+xml
+
+Uri: https://www.circodentistry.ro/wp-content/themes/circo/img/favicon/apple-touch-icon.png
+File Name: c:\Downloaded Web Sites\www.circodentistry.ro\wp-content\themes\circo\img\favicon\apple-touch-icon.png
+Content Type: image/png
+
+Uri: https://www.circodentistry.ro/wp-content/themes/circo/img/favicon/favicon-32x32.png
+File Name: c:\Downloaded Web Sites\www.circodentistry.ro\wp-content\themes\circo\img\favicon\favicon-32x32.png
+Content Type: image/png
+
+Uri: https://www.circodentistry.ro/wp-content/themes/circo/img/favicon/favicon-16x16.png
+File Name: c:\Downloaded Web Sites\www.circodentistry.ro\wp-content\themes\circo\img\favicon\favicon-16x16.png
+Content Type: image/png
+
+Uri: https://www.circodentistry.ro/wp-content/themes/circo/img/favicon/site.webmanifest
+File Name: c:\Downloaded Web Sites\www.circodentistry.ro\wp-content\themes\circo\img\favicon\site.bin
+Content Type: application/octet-stream
+
+Uri: https://www.circodentistry.ro/wp-content/themes/circo/img/favicon/safari-pinned-tab.svg
+File Name: c:\Downloaded Web Sites\www.circodentistry.ro\wp-content\themes\circo\img\favicon\safari-pinned-tab.svg
+Content Type: image/svg+xml
+
+Uri: https://circodentistry.ro/wp-content/cache/autoptimize/css/autoptimize_b2f3405254bf4e54fdd3a76fe22df26f.css
+File Name: c:\Downloaded Web Sites\www.circodentistry.ro\wp-content\cache\autoptimize\css\autoptimize_b2f3405254bf4e54fdd3a76fe22df26f.css
+Content Type: text/css
+
+Uri: https://www.circodentistry.ro/preturi/
+File Name: c:\Downloaded Web Sites\www.circodentistry.ro\preturi\index.htm
+Content Type: text/html
+
+Uri: https://www.circodentistry.ro/echipa/
+File Name: c:\Downloaded Web Sites\www.circodentistry.ro\echipa\index.htm
+Content Type: text/html
+
+Uri: https://www.circodentistry.ro/galerie/
+File Name: c:\Downloaded Web Sites\www.circodentistry.ro\galerie\index.htm
+Content Type: text/html
+
+Uri: https://www.circodentistry.ro/contact/
+File Name: c:\Downloaded Web Sites\www.circodentistry.ro\contact\index.htm
+Content Type: text/html
+
+Uri: https://circodentistry.ro/wp-content/themes/circo/img/Circo_Dentistry_Center.svg
+File Name: c:\Downloaded Web Sites\www.circodentistry.ro\wp-content\themes\circo\img\Circo_Dentistry_Center.svg
+Content Type: image/svg+xml
+
+Uri: https://www.circodentistry.ro/wp-content/themes/circo/img/AP_logo.png
+File Name: c:\Downloaded Web Sites\www.circodentistry.ro\wp-content\themes\circo\img\AP_logo.png
+Content Type: image/png
+
+Uri: https://www.circodentistry.ro/wp-content/themes/circo/img/Circo_Dentistry_Center2.jpg
+File Name: c:\Downloaded Web Sites\www.circodentistry.ro\wp-content\themes\circo\img\Circo_Dentistry_Center2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.circodentistry.ro/wp-content/themes/circo/img/certif/logo_nyu_dentistry.png
+File Name: c:\Downloaded Web Sites\www.circodentistry.ro\wp-content\themes\circo\img\certif\logo_nyu_dentistry.png
+Content Type: image/png
+
+Uri: https://www.circodentistry.ro/wp-content/themes/circo/img/certif/logo_bern_university.png
+File Name: c:\Downloaded Web Sites\www.circodentistry.ro\wp-content\themes\circo\img\certif\logo_bern_university.png
+Content Type: image/png
+
+Uri: https://www.circodentistry.ro/wp-content/themes/circo/img/certif/logo_face_functional_and_cosmetic_excellence.png
+File Name: c:\Downloaded Web Sites\www.circodentistry.ro\wp-content\themes\circo\img\certif\logo_face_functional_and_cosmetic_excellence.png
+Content Type: image/png
+
+Uri: https://www.circodentistry.ro/wp-content/themes/circo/img/certif/logo_the_mclaughlin_program.png
+File Name: c:\Downloaded Web Sites\www.circodentistry.ro\wp-content\themes\circo\img\certif\logo_the_mclaughlin_program.png
+Content Type: image/png
+
+Uri: https://www.circodentistry.ro/wp-content/themes/circo/img/Circo_Dentistry_Center_Testimonial_Titilina_Florentina.jpg
+File Name: c:\Downloaded Web Sites\www.circodentistry.ro\wp-content\themes\circo\img\Circo_Dentistry_Center_Testimonial_Titilina_Florentina.jpg
+Content Type: image/jpeg
+
+Uri: https://www.circodentistry.ro/wp-content/themes/circo/img/Circo_Dentistry_Center_Tratamente.jpg
+File Name: c:\Downloaded Web Sites\www.circodentistry.ro\wp-content\themes\circo\img\Circo_Dentistry_Center_Tratamente.jpg
+Content Type: image/jpeg
+
+Uri: https://www.circodentistry.ro/wp-content/themes/circo/img/Circo_Dentistry_Center_Testimonial_Rivera_Ramiro.jpg
+File Name: c:\Downloaded Web Sites\www.circodentistry.ro\wp-content\themes\circo\img\Circo_Dentistry_Center_Testimonial_Rivera_Ramiro.jpg
+Content Type: image/jpeg
+
+Uri: https://circodentistry.ro/wp-content/uploads/2018/09/Circo_Dentistry_Center.jpg
+File Name: c:\Downloaded Web Sites\www.circodentistry.ro\wp-content\uploads\2018\09\Circo_Dentistry_Center.jpg
+Content Type: image/jpeg
+
+Uri: https://circodentistry.ro/wp-content/cache/autoptimize/js/autoptimize_ee80887918a7aaa3b772e60147bdade5.js
+File Name: c:\Downloaded Web Sites\www.circodentistry.ro\wp-content\cache\autoptimize\js\autoptimize_ee80887918a7aaa3b772e60147bdade5.js
+Content Type: application/javascript
+
+Uri: https://circodentistry.ro/wp-content/plugins/contact-form-7/images/ajax-loader.gif
+File Name: c:\Downloaded Web Sites\www.circodentistry.ro\wp-content\plugins\contact-form-7\images\ajax-loader.gif
+Content Type: image/gif
+
+Uri: https://circodentistry.ro/wp-content/themes/circo/img/btn_play.png
+File Name: c:\Downloaded Web Sites\www.circodentistry.ro\wp-content\themes\circo\img\btn_play.png
+Content Type: image/png
+
+Uri: https://circodentistry.ro/wp-content/plugins/gdpr-cookie-compliance/dist/fonts/moovegdpr.eot
+File Name: c:\Downloaded Web Sites\www.circodentistry.ro\wp-content\plugins\gdpr-cookie-compliance\dist\fonts\moovegdpr.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://circodentistry.ro/wp-content/plugins/gdpr-cookie-compliance/dist/fonts/moovegdpr.ttf
+File Name: c:\Downloaded Web Sites\www.circodentistry.ro\wp-content\plugins\gdpr-cookie-compliance\dist\fonts\moovegdpr.ttf
+Content Type: x-font/ttf
+
+Uri: https://circodentistry.ro/wp-content/plugins/gdpr-cookie-compliance/dist/fonts/moovegdpr.woff
+File Name: c:\Downloaded Web Sites\www.circodentistry.ro\wp-content\plugins\gdpr-cookie-compliance\dist\fonts\moovegdpr.woff
+Content Type: x-font/woff
+
+Uri: https://circodentistry.ro/wp-content/plugins/gdpr-cookie-compliance/dist/fonts/moovegdpr.svg
+File Name: c:\Downloaded Web Sites\www.circodentistry.ro\wp-content\plugins\gdpr-cookie-compliance\dist\fonts\moovegdpr.svg
+Content Type: image/svg+xml
+
+Uri: https://www.circodentistry.ro/wp-content/themes/circo/img/team/doctor_razvan_circo.jpg
+File Name: c:\Downloaded Web Sites\www.circodentistry.ro\wp-content\themes\circo\img\team\doctor_razvan_circo.jpg
+Content Type: image/jpeg
+
+Uri: https://www.circodentistry.ro/wp-content/themes/circo/img/team/doctor_cristina_circo.jpg
+File Name: c:\Downloaded Web Sites\www.circodentistry.ro\wp-content\themes\circo\img\team\doctor_cristina_circo.jpg
+Content Type: image/jpeg
+
+Uri: https://www.circodentistry.ro/wp-content/themes/circo/img/team/doctor_ioana_otelea.jpg
+File Name: c:\Downloaded Web Sites\www.circodentistry.ro\wp-content\themes\circo\img\team\doctor_ioana_otelea.jpg
+Content Type: image/jpeg
+
+Uri: https://www.circodentistry.ro/wp-content/themes/circo/img/team/doctor_catalin_fanaru.jpg
+File Name: c:\Downloaded Web Sites\www.circodentistry.ro\wp-content\themes\circo\img\team\doctor_catalin_fanaru.jpg
+Content Type: image/jpeg
+
+Uri: https://www.circodentistry.ro/wp-content/themes/circo/img/ph.jpg
+File Name: c:\Downloaded Web Sites\www.circodentistry.ro\wp-content\themes\circo\img\ph.jpg
+Content Type: image/jpeg
+
+Uri: https://circodentistry.ro/wp-content/themes/circo/img/gallery/new/Circo__Dentistry5.png
+File Name: c:\Downloaded Web Sites\www.circodentistry.ro\wp-content\themes\circo\img\gallery\new\Circo__Dentistry5.png
+Content Type: image/png
+
+Uri: https://circodentistry.ro/wp-content/themes/circo/img/gallery/new/Circo__Dentistry5b.jpg
+File Name: c:\Downloaded Web Sites\www.circodentistry.ro\wp-content\themes\circo\img\gallery\new\Circo__Dentistry5b.jpg
+Content Type: image/jpeg
+
+Uri: https://circodentistry.ro/wp-content/themes/circo/img/gallery/new/Circo__Dentistry5c.jpg
+File Name: c:\Downloaded Web Sites\www.circodentistry.ro\wp-content\themes\circo\img\gallery\new\Circo__Dentistry5c.jpg
+Content Type: image/jpeg
+
+Uri: https://circodentistry.ro/wp-content/themes/circo/img/gallery/Circo__Dentistry2.jpg
+File Name: c:\Downloaded Web Sites\www.circodentistry.ro\wp-content\themes\circo\img\gallery\Circo__Dentistry2.jpg
+Content Type: image/jpeg
+
+Uri: https://circodentistry.ro/wp-content/themes/circo/img/gallery/Circo__Dentistry3.jpg
+File Name: c:\Downloaded Web Sites\www.circodentistry.ro\wp-content\themes\circo\img\gallery\Circo__Dentistry3.jpg
+Content Type: image/jpeg
+
+Uri: https://circodentistry.ro/wp-content/themes/circo/img/gallery/Circo__Dentistry4.jpg
+File Name: c:\Downloaded Web Sites\www.circodentistry.ro\wp-content\themes\circo\img\gallery\Circo__Dentistry4.jpg
+Content Type: image/jpeg
+
+Uri: https://circodentistry.ro/wp-content/themes/circo/img/gallery/Circo__Dentistry1.jpg
+File Name: c:\Downloaded Web Sites\www.circodentistry.ro\wp-content\themes\circo\img\gallery\Circo__Dentistry1.jpg
+Content Type: image/jpeg
+
+Uri: https://circodentistry.ro/wp-content/themes/circo/img/gallery/Circo__Dentistry6.jpg
+File Name: c:\Downloaded Web Sites\www.circodentistry.ro\wp-content\themes\circo\img\gallery\Circo__Dentistry6.jpg
+Content Type: image/jpeg
+
+Uri: https://circodentistry.ro/wp-content/themes/circo/img/gallery/Circo__Dentistry7.jpg
+File Name: c:\Downloaded Web Sites\www.circodentistry.ro\wp-content\themes\circo\img\gallery\Circo__Dentistry7.jpg
+Content Type: image/jpeg
+
+Uri: https://circodentistry.ro/wp-content/themes/circo/img/gallery/new/Circo__Dentistry8.jpg
+File Name: c:\Downloaded Web Sites\www.circodentistry.ro\wp-content\themes\circo\img\gallery\new\Circo__Dentistry8.jpg
+Content Type: image/jpeg
+
+Uri: https://circodentistry.ro/wp-content/themes/circo/img/gallery/new/Circo__Dentistry9.jpg
+File Name: c:\Downloaded Web Sites\www.circodentistry.ro\wp-content\themes\circo\img\gallery\new\Circo__Dentistry9.jpg
+Content Type: image/jpeg
+
+Uri: https://circodentistry.ro/wp-content/themes/circo/img/gallery/new/Circo__Dentistry10.jpg
+File Name: c:\Downloaded Web Sites\www.circodentistry.ro\wp-content\themes\circo\img\gallery\new\Circo__Dentistry10.jpg
+Content Type: image/jpeg
+
+Uri: https://circodentistry.ro/wp-content/themes/circo/img/gallery/new/Circo__Dentistry11.jpg
+File Name: c:\Downloaded Web Sites\www.circodentistry.ro\wp-content\themes\circo\img\gallery\new\Circo__Dentistry11.jpg
+Content Type: image/jpeg
+
+Uri: https://www.circodentistry.ro/wp-content/themes/circo/img/logo_circo_constanta@2x.jpg
+File Name: c:\Downloaded Web Sites\www.circodentistry.ro\wp-content\themes\circo\img\logo_circo_constanta@2x.jpg
+Content Type: image/jpeg
+
